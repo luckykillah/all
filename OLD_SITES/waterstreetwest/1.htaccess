@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^waterstreetwest\.com$ [NC]
+RewriteRule ^(.*)$ http://www.waterstreetwest.com/$1 [R=301,L]
+
+Redirect 301 / http://christinalutters.com/
+

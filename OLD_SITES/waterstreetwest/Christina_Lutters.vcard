@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lutters;Christina;;;
+FN:Christina Lutters
+ORG:Freelance Web Design & Development;
+item1.EMAIL;type=INTERNET;type=pref:christina@waterstreetwest.com
+item1.X-ABLabel:e-mail
+item2.TEL;type=pref:+968 95 729 267
+item2.X-ABLabel:Muscat
+item3.TEL:+1 914 484 7930
+item3.X-ABLabel:New York
+item4.TEL:+971 055 572 8331
+item4.X-ABLabel:Dubai
+item5.URL;type=pref:http\://www.christinalutters.com
+item5.X-ABLabel:website
+X-ABUID:1725AE7C-1C6C-40DA-99EF-E6B7E4CAA40A\:ABPerson
+END:VCARD
