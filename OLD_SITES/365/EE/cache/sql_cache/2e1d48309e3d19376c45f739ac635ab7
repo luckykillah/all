@@ -1,0 +1,10 @@
+SELECT  t.entry_id, t.weblog_id, t.forum_topic_id, t.author_id, t.ip_address, t.title, t.url_title, t.status, t.dst_enabled, t.view_count_one, t.view_count_two, t.view_count_three, t.view_count_four, t.allow_comments, t.comment_expiration_date, t.allow_trackbacks, t.sticky, t.entry_date, t.year, t.month, t.day, t.edit_date, t.expiration_date, t.recent_comment_date, t.comment_total, t.trackback_total, t.sent_trackbacks, t.recent_trackback_date, t.site_id as entry_site_id,
+						w.blog_title, w.blog_name, w.blog_url, w.comment_url, w.tb_return_url, w.comment_moderate, w.weblog_html_formatting, w.weblog_allow_img_urls, w.weblog_auto_link_urls, w.enable_trackbacks, w.trackback_use_url_title, w.trackback_field, w.trackback_use_captcha, w.trackback_system_enabled, 
+						m.username, m.email, m.url, m.screen_name, m.location, m.occupation, m.interests, m.aol_im, m.yahoo_im, m.msn_im, m.icq, m.signature, m.sig_img_filename, m.sig_img_width, m.sig_img_height, m.avatar_filename, m.avatar_width, m.avatar_height, m.photo_filename, m.photo_width, m.photo_height, m.group_id, m.member_id, m.bday_d, m.bday_m, m.bday_y, m.bio,
+						md.*,
+						wd.*
+				FROM exp_weblog_titles		AS t
+				LEFT JOIN exp_weblogs 		AS w  ON t.weblog_id = w.weblog_id 
+				LEFT JOIN exp_weblog_data	AS wd ON t.entry_id = wd.entry_id 
+				LEFT JOIN exp_members		AS m  ON m.member_id = t.author_id 
+				LEFT JOIN exp_member_data	AS md ON md.member_id = m.member_id WHERE t.entry_id IN (115) ORDER BY t.sticky desc, t.entry_date desc, t.entry_id desc

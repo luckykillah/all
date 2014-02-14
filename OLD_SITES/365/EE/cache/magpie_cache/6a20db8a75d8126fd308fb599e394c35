@@ -1,0 +1,606 @@
+O:9:"magpierss":23:{s:6:"parser";N;s:12:"current_item";a:0:{}s:5:"items";a:15:{i:0;a:9:{s:5:"title";s:49:"The End (of Beta) is Near: What You  Need to Know";s:4:"link";s:85:"http://expressionengine.com/blog/entry/the_end_of_beta_is_near_what_you_need_to_know/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:4:"News";s:8:"comments";s:85:"http://expressionengine.com/blog/entry/the_end_of_beta_is_near_what_you_need_to_know/";s:11:"description";s:3458:"<p>EllisLab CTO Derek Jones announced during EECI2010 that the next build of ExpressionEngine will be 2.1. This will be the first non-beta release and officially mark the end of the beta. The release date given at EECI2010 was &#8220;Soon&#8221; and today we&#8217;re updating the release date to &#8220;Near.&#8221; </p>
+
+<p>The end of beta will mean some important changes at ExpressionEngine.com and we want to give the Community sufficient time to prepare. Here is what you need to know.</p>
+
+<p>When ExpressionEngine 2.1 is released, <span style="font-weight: bold; font-style: italic;">ExpressionEngine 1.x will no longer be available for purchase</span>. EE 1.x will officially become a legacy version. We promised that we would keep the transition from EE 1.x to EE 2.x as natural as possible and not force it unnecessarily. Given that commitment, here is what you can expect:</p>
+
+<ul class="blogLists">
+<li>If you own an EE 1.x license you will have continued download access to EE 1.×.</li>
+<li>New EE 2.1 purchases will also have access to EE 1.×. You will still be able to start with EE 1.x and migrate to 2.x at your convenience just like you can now with the EE 2 beta. <em>We will offer this through Dec. 31st, 2010</em>. After that, EE 1.x will not be available with new purchases but will continue to be available for download if you own a license.</li>
+<li>When EE 2.1 launches, EE 1.x will be available as a separate download link instead of packaged with the EE 2 download like it currently is.</li>
+<li>We will continue to provide technical support for EE 1.x as long as there is sufficient demand for it. Realistically we expect this to be throughout 2010 and a good deal into 2011 at the least.</li>
+<li>EllisLab will provide six months notice prior to discontinuing EE 1.x support.</li>
+<li>When EE 2.1 launches EllisLab will continue to provide security updates for EE 1.x in our usual speedy and thorough fashion.</li>
+<li>EllisLab will continue to provide bug fixes for EE 1.x, though this will be at a reduced rate as development priority will be firmly on EE 2.×.</li>
+</ul>
+
+<p>Coinciding with EE 2.1’s release, ExpressionEngine.com will be undergoing a refresh that includes replacing EE 1.x documentation and support resources with resources focused on EE 2. We will do our best to keep current URLs intact or redirected. If something breaks we&#8217;ll do our best to restore it quickly. </p>
+
+<p>If there is something you absolutely reference everyday other than the EE 1.x User Guide, please make a copy for yourself and let us know about it in the <a href="http://expressionengine.com/forums/viewthread/158396/">Discussion Thread for this post</a>. We will do our best to notify the Community prior to any major resource change that can’t be redirected in a seamless manner.</p>
+
+<p>Please keep in mind this is a fairly significant update to a lot of resources and we appreciate your patience, help, and feedback during the process. Right now the main thing you can do to help is tell other EE people who may not read the blog or stay updated on EllisLab news. When we say sufficient time, we mean it, so this isn&#8217;t happening immediately but don&#8217;t procrastinate because it will be happening in the near future. </p>
+
+<p>I will be happy to answer any questions posted to the <a href="http://expressionengine.com/forums/viewthread/158396/">Discussion Thread</a>. See you on the boards!</p>
+
+<p>&nbsp;</p>";s:4:"guid";s:100:"http://expressionengine.com/blog/entry/the_end_of_beta_is_near_what_you_need_to_know/#When:21:05:40Z";s:7:"pubdate";s:29:"Fri, 18 Jun 2010 21:05:40 GMT";s:7:"summary";s:3458:"<p>EllisLab CTO Derek Jones announced during EECI2010 that the next build of ExpressionEngine will be 2.1. This will be the first non-beta release and officially mark the end of the beta. The release date given at EECI2010 was &#8220;Soon&#8221; and today we&#8217;re updating the release date to &#8220;Near.&#8221; </p>
+
+<p>The end of beta will mean some important changes at ExpressionEngine.com and we want to give the Community sufficient time to prepare. Here is what you need to know.</p>
+
+<p>When ExpressionEngine 2.1 is released, <span style="font-weight: bold; font-style: italic;">ExpressionEngine 1.x will no longer be available for purchase</span>. EE 1.x will officially become a legacy version. We promised that we would keep the transition from EE 1.x to EE 2.x as natural as possible and not force it unnecessarily. Given that commitment, here is what you can expect:</p>
+
+<ul class="blogLists">
+<li>If you own an EE 1.x license you will have continued download access to EE 1.×.</li>
+<li>New EE 2.1 purchases will also have access to EE 1.×. You will still be able to start with EE 1.x and migrate to 2.x at your convenience just like you can now with the EE 2 beta. <em>We will offer this through Dec. 31st, 2010</em>. After that, EE 1.x will not be available with new purchases but will continue to be available for download if you own a license.</li>
+<li>When EE 2.1 launches, EE 1.x will be available as a separate download link instead of packaged with the EE 2 download like it currently is.</li>
+<li>We will continue to provide technical support for EE 1.x as long as there is sufficient demand for it. Realistically we expect this to be throughout 2010 and a good deal into 2011 at the least.</li>
+<li>EllisLab will provide six months notice prior to discontinuing EE 1.x support.</li>
+<li>When EE 2.1 launches EllisLab will continue to provide security updates for EE 1.x in our usual speedy and thorough fashion.</li>
+<li>EllisLab will continue to provide bug fixes for EE 1.x, though this will be at a reduced rate as development priority will be firmly on EE 2.×.</li>
+</ul>
+
+<p>Coinciding with EE 2.1’s release, ExpressionEngine.com will be undergoing a refresh that includes replacing EE 1.x documentation and support resources with resources focused on EE 2. We will do our best to keep current URLs intact or redirected. If something breaks we&#8217;ll do our best to restore it quickly. </p>
+
+<p>If there is something you absolutely reference everyday other than the EE 1.x User Guide, please make a copy for yourself and let us know about it in the <a href="http://expressionengine.com/forums/viewthread/158396/">Discussion Thread for this post</a>. We will do our best to notify the Community prior to any major resource change that can’t be redirected in a seamless manner.</p>
+
+<p>Please keep in mind this is a fairly significant update to a lot of resources and we appreciate your patience, help, and feedback during the process. Right now the main thing you can do to help is tell other EE people who may not read the blog or stay updated on EllisLab news. When we say sufficient time, we mean it, so this isn&#8217;t happening immediately but don&#8217;t procrastinate because it will be happening in the near future. </p>
+
+<p>I will be happy to answer any questions posted to the <a href="http://expressionengine.com/forums/viewthread/158396/">Discussion Thread</a>. See you on the boards!</p>
+
+<p>&nbsp;</p>";}i:1;a:9:{s:5:"title";s:84:"EECI2010 Top Ten, #3! Meet The Ryans, the Dynamic Duo Behind EE Insider and Devot-ee";s:4:"link";s:54:"http://expressionengine.com/blog/entry/eeci2010_ten_3/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:54:"http://expressionengine.com/blog/entry/eeci2010_ten_3/";s:11:"description";s:1951:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now</a>!</p>
+
+<p>Back in <a href="http://expressionengine.com/blog/entry/eeci2010_7_roi/">#7</a> I described Ryan Irelan as a &#8220;Community Avatar.&#8221; Sir Irelan is the driving force behind <a href="http://eeinsider.com">EE Insider</a>. He wrote the first book on ExpressionEngine 2.0, he produces <a href="http://eescreencasts.com/">screen casts</a>, and hosts <a href="http://www.eescreencasts.com/page/ee-help-chat">EE Help Chat</a>, a real-time community supported help session. Oh, he&#8217;s also going to be bringing EECI2010 live as much as possible through a <a href="http://eeinsider.com/eeci2010">special page on EE Insider</a>. </p>
+
+<p>Ryan Masuga decided that there should be a single site that collects every single ExpressionEngine add-on in existence and created <a href="http://devot-ee.com">Devot-ee.com</a>. He recently <a href="http://devot-ee.com/news/item/many-changes-at-devotee/">launched a store</a> to help developers reach a broader audience with their audience and give the community and easy way to track changes to 3rd party updates. </p>
+
+<p>Ryan Masuga has also built a reputation for being an outspoken critic of well, everything, on his Twitter account, <a href="http://twitter.com/masuga">@masuga</a> that keeps everyone, including us here at EllisLab, on our toes. </p>
+
+<p>Between the two Ryans you can stay on top of 99.9% of everything happening in the ExpressionEngine Community. </p>
+
+<p>At EllisLab we are doing our part to support both their efforts. We love what they do and how they impact the lives of web professionals. </p>
+
+<p>At EECI2010 you can meet them in person. Better yet, find ways to help them out. You could contribute an article, send them an add-on tip, a how-to, or just a thank you. </p>
+
+<p>See you next week! 
+</p>";s:4:"guid";s:69:"http://expressionengine.com/blog/entry/eeci2010_ten_3/#When:22:55:09Z";s:7:"pubdate";s:29:"Thu, 27 May 2010 22:55:09 GMT";s:7:"summary";s:1951:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now</a>!</p>
+
+<p>Back in <a href="http://expressionengine.com/blog/entry/eeci2010_7_roi/">#7</a> I described Ryan Irelan as a &#8220;Community Avatar.&#8221; Sir Irelan is the driving force behind <a href="http://eeinsider.com">EE Insider</a>. He wrote the first book on ExpressionEngine 2.0, he produces <a href="http://eescreencasts.com/">screen casts</a>, and hosts <a href="http://www.eescreencasts.com/page/ee-help-chat">EE Help Chat</a>, a real-time community supported help session. Oh, he&#8217;s also going to be bringing EECI2010 live as much as possible through a <a href="http://eeinsider.com/eeci2010">special page on EE Insider</a>. </p>
+
+<p>Ryan Masuga decided that there should be a single site that collects every single ExpressionEngine add-on in existence and created <a href="http://devot-ee.com">Devot-ee.com</a>. He recently <a href="http://devot-ee.com/news/item/many-changes-at-devotee/">launched a store</a> to help developers reach a broader audience with their audience and give the community and easy way to track changes to 3rd party updates. </p>
+
+<p>Ryan Masuga has also built a reputation for being an outspoken critic of well, everything, on his Twitter account, <a href="http://twitter.com/masuga">@masuga</a> that keeps everyone, including us here at EllisLab, on our toes. </p>
+
+<p>Between the two Ryans you can stay on top of 99.9% of everything happening in the ExpressionEngine Community. </p>
+
+<p>At EllisLab we are doing our part to support both their efforts. We love what they do and how they impact the lives of web professionals. </p>
+
+<p>At EECI2010 you can meet them in person. Better yet, find ways to help them out. You could contribute an article, send them an add-on tip, a how-to, or just a thank you. </p>
+
+<p>See you next week! 
+</p>";}i:2;a:9:{s:5:"title";s:64:"EECI2010 Top Ten, #4! Win an iPad &amp; Get Limited Edition Swag";s:4:"link";s:56:"http://expressionengine.com/blog/entry/eeci2010_top10_4/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:56:"http://expressionengine.com/blog/entry/eeci2010_top10_4/";s:11:"description";s:1487:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></p>
+
+<p>The EECI2010 PartEE Night happens June 1st after the first day of the conference. In addition to food, drinks, and all around merriment, Robert (Whoooz Media) will be giving away two Apple iPads. All you have to do to enter is be a EECI2010 Ticket holder. There are also unconfirmed rumors that other sponsors may be giving prizes away that evening as well. I suppose we&#8217;ll all find out about that second part together. </p>
+
+<p>Then of course, we have one of the major perks of any conference&#8230; free stuff, also known as swag to conference veterans. At EECI2009 we got free EE bags, notebooks, and pens. I&#8217;m not sure what other sponsors are giving away but EllisLab has a mighty fine, limited edition EECI2010 t-shirt for attendees.</p>
+
+<p>The t-shirt proudly features CodeIgniter and ExpressionEngine and its a beautiful, deep maroon. We enlisted the help of Garett and Garrett from <a href="http://gandrweb.com/">Gandr Web design</a> to come up with something a bit more than a logo on a shirt. Here&#8217;s a teaser. </p>
+
+<p><img src="http://expressionengine.com/files/blog/eeci2010_swag_teaser.jpg" alt="EECI2010 t-shirt teaser" width="450" height="369" /></p>
+
+<p>The t-shirt is free to every man, woman, and child who attends EECI2010. </p>
+
+<p>See you in a few short weeks! 
+</p>";s:4:"guid";s:71:"http://expressionengine.com/blog/entry/eeci2010_top10_4/#When:17:13:03Z";s:7:"pubdate";s:29:"Thu, 13 May 2010 17:13:03 GMT";s:7:"summary";s:1487:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></p>
+
+<p>The EECI2010 PartEE Night happens June 1st after the first day of the conference. In addition to food, drinks, and all around merriment, Robert (Whoooz Media) will be giving away two Apple iPads. All you have to do to enter is be a EECI2010 Ticket holder. There are also unconfirmed rumors that other sponsors may be giving prizes away that evening as well. I suppose we&#8217;ll all find out about that second part together. </p>
+
+<p>Then of course, we have one of the major perks of any conference&#8230; free stuff, also known as swag to conference veterans. At EECI2009 we got free EE bags, notebooks, and pens. I&#8217;m not sure what other sponsors are giving away but EllisLab has a mighty fine, limited edition EECI2010 t-shirt for attendees.</p>
+
+<p>The t-shirt proudly features CodeIgniter and ExpressionEngine and its a beautiful, deep maroon. We enlisted the help of Garett and Garrett from <a href="http://gandrweb.com/">Gandr Web design</a> to come up with something a bit more than a logo on a shirt. Here&#8217;s a teaser. </p>
+
+<p><img src="http://expressionengine.com/files/blog/eeci2010_swag_teaser.jpg" alt="EECI2010 t-shirt teaser" width="450" height="369" /></p>
+
+<p>The t-shirt is free to every man, woman, and child who attends EECI2010. </p>
+
+<p>See you in a few short weeks! 
+</p>";}i:3;a:9:{s:5:"title";s:58:"EECI2010 Top Ten, #5! Meet your favorite Add-on Developers";s:4:"link";s:58:"http://expressionengine.com/blog/entry/eeci2010_top_ten_5/";s:2:"dc";a:1:{s:7:"creator";s:9:"Lisa Wess";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:58:"http://expressionengine.com/blog/entry/eeci2010_top_ten_5/";s:11:"description";s:1588:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com/">Register now</a>!</p>
+
+<p>Have you ever wondered how Playa handles its magic behind-the-scenes?&nbsp; Have you ever wished that the Tag module could parse your entries and look for common keywords? </p>
+
+<p>Or perhaps you haven&#8217;t wondered, perhaps you&#8217;ve modified a popular add-on and now you would like to discuss with the developer if your idea was a good approach, and if they would include your code in their add-on?</p>
+
+<p>Maybe you have a brilliant idea for your own add-on and no idea how to begin?</p>
+
+<p>At this year&#8217;s EECI, we will have some of the most popular add-on developers in attendance, speaking, and socializing with the community.&nbsp; This is your chance to pull a developer aside and have that conversation you&#8217;ve long wished to have.</p>
+
+<p>Some of our most prolific add-on developers will be attending EECI, including those who have built successful businesses around ExpressionEngine add-on development.&nbsp; This awe-inspiring list includes Mitchell Kimbrough, Brandon Kelly, Leevi Graham, Lodewijk Schutte, and many others ranging from highly successful developers to the budding enthusiast.</p>
+
+<p>Join us at EECI to meet these amazing people, see just how approachable and friendly they are, learn both about add-on development and building a business around that add-on development, and have a fantastic time.</p>
+
+<p><a href="http://eeci2010.com">See you there!</a></p>
+
+";s:4:"guid";s:73:"http://expressionengine.com/blog/entry/eeci2010_top_ten_5/#When:20:30:23Z";s:7:"pubdate";s:29:"Fri, 07 May 2010 20:30:23 GMT";s:7:"summary";s:1588:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com/">Register now</a>!</p>
+
+<p>Have you ever wondered how Playa handles its magic behind-the-scenes?&nbsp; Have you ever wished that the Tag module could parse your entries and look for common keywords? </p>
+
+<p>Or perhaps you haven&#8217;t wondered, perhaps you&#8217;ve modified a popular add-on and now you would like to discuss with the developer if your idea was a good approach, and if they would include your code in their add-on?</p>
+
+<p>Maybe you have a brilliant idea for your own add-on and no idea how to begin?</p>
+
+<p>At this year&#8217;s EECI, we will have some of the most popular add-on developers in attendance, speaking, and socializing with the community.&nbsp; This is your chance to pull a developer aside and have that conversation you&#8217;ve long wished to have.</p>
+
+<p>Some of our most prolific add-on developers will be attending EECI, including those who have built successful businesses around ExpressionEngine add-on development.&nbsp; This awe-inspiring list includes Mitchell Kimbrough, Brandon Kelly, Leevi Graham, Lodewijk Schutte, and many others ranging from highly successful developers to the budding enthusiast.</p>
+
+<p>Join us at EECI to meet these amazing people, see just how approachable and friendly they are, learn both about add-on development and building a business around that add-on development, and have a fantastic time.</p>
+
+<p><a href="http://eeci2010.com">See you there!</a></p>
+
+";}i:4;a:9:{s:5:"title";s:69:"EECI2010 Top Ten, #6! Solve Problems Quickly: An EE Guru Packed Event";s:4:"link";s:57:"http://expressionengine.com/blog/entry/eeci2010_topten_6/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:57:"http://expressionengine.com/blog/entry/eeci2010_topten_6/";s:11:"description";s:1615:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com/">Register now</a>!</p>
+
+<p>There is a good chance that at this very moment you are tackling a number of web development issues. There is also a good chance that at least a few of these are complex with no clear solution. That&#8217;s just a normal day in the life of a web professional. </p>
+
+<p>No matter how comprehensive your web toolkit is clients will find a way to deliver a new challenge. You know that your skills plus EE and/or CI is up to the task and it will just be a matter of time before you amaze your client with a workable solution. But time is a precious thing, a commodity that always seems in short supply. </p>
+
+<p>Now imagine a building packed with web professionals who bring with them an amazing array of skill sets and thousands and thousands of hours of collective experience. What if this building had an exclusive space with food, coffee, net access, work stations, all setup in way to encourage people to help each other solve complex issues quickly. </p>
+
+<p>This place exists at EECI2010. It&#8217;s the CodeShare Corner hosted by <a href="http://solspace.com">Solspace</a>. </p>
+
+<p>I saw it work firsthand at EECI2009 time and time again. The beautiful reality is that this isn&#8217;t limited to the CodeShare Corner, it will be unfolding everywhere, 24/7 for three days.</p>
+
+<p>This is your building. This is your community. We take care of our own.</p>
+
+<p>See you at <a href="http://eeci2010.com">EECI2010</a>.&nbsp; 
+</p>";s:4:"guid";s:72:"http://expressionengine.com/blog/entry/eeci2010_topten_6/#When:23:25:17Z";s:7:"pubdate";s:29:"Wed, 05 May 2010 23:25:17 GMT";s:7:"summary";s:1615:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com/">Register now</a>!</p>
+
+<p>There is a good chance that at this very moment you are tackling a number of web development issues. There is also a good chance that at least a few of these are complex with no clear solution. That&#8217;s just a normal day in the life of a web professional. </p>
+
+<p>No matter how comprehensive your web toolkit is clients will find a way to deliver a new challenge. You know that your skills plus EE and/or CI is up to the task and it will just be a matter of time before you amaze your client with a workable solution. But time is a precious thing, a commodity that always seems in short supply. </p>
+
+<p>Now imagine a building packed with web professionals who bring with them an amazing array of skill sets and thousands and thousands of hours of collective experience. What if this building had an exclusive space with food, coffee, net access, work stations, all setup in way to encourage people to help each other solve complex issues quickly. </p>
+
+<p>This place exists at EECI2010. It&#8217;s the CodeShare Corner hosted by <a href="http://solspace.com">Solspace</a>. </p>
+
+<p>I saw it work firsthand at EECI2009 time and time again. The beautiful reality is that this isn&#8217;t limited to the CodeShare Corner, it will be unfolding everywhere, 24/7 for three days.</p>
+
+<p>This is your building. This is your community. We take care of our own.</p>
+
+<p>See you at <a href="http://eeci2010.com">EECI2010</a>.&nbsp; 
+</p>";}i:5;a:9:{s:5:"title";s:42:"EECI2010 Top Ten, #7! Return on Investment";s:4:"link";s:54:"http://expressionengine.com/blog/entry/eeci2010_7_roi/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:37:"Learn ExpressionEngineNewsThe Insider";s:8:"comments";s:54:"http://expressionengine.com/blog/entry/eeci2010_7_roi/";s:11:"description";s:8259:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now</a>!</p>
+
+<p>Do you make some or all of your living deploying ExpressionEngine and/or CodeIgniter? Do you want an opportunity that has an unbelievably high return on investment for your time and money? Then please carefully consider this list of <a href="http://eeci2010.com/speakers/">EECI2010 speakers</a>:</strong> </p>
+
+<ul class="blogLists">
+<li><strong>Rick Ellis:</strong> Wrote pMachine, ExpressionEngine, and CodeIgniter. EECI is a rare opportunity to meet one of the people who shaped blogging and web publishing from the beginning.</li>
+<li><strong>Leslie Camacho:</strong> I&#8217;ve helped thousands of web professionals succeed for over a decade and I&#8217;ve had the privelidge of building one of the most influential web publishing software companies.</li>
+<li><strong>Derek Jones:</strong> The current mastermind behind most of ExpressionEngine and CodeIgniter&#8217;s on going development with years of experience deploying code to thousands of users.</li>
+<li><strong>Derek Allard:</strong> Creative specialist with years of experience translating community feedback into an improved software platform. Plus, he&#8217;s the&#8230; actually, can&#8217;t talk about that yet.</li>
+<li><strong>Simon Collison:</strong> The mighty Simon Collison, known best as Colly, has been an EE evangelist almost from day one. Colly was the first to write in-depth EE tutorials in a book from a major publisher but is best known for being a design super star. He was one the brains behind the ExpressionEngine 2.0 Example Site that helps people learn EE from the HTML/CSS all the way through final implementation. He gave one of the best presentations at EECI2009 and I&#8217;m personally looking forward to what he does at EECI2010.</li>
+<li><strong>Adii Rockstar:</strong> One of the masterminds behind <a href="http://woothemes.com">WooThemes</a>, one of the most successful and influential theme communities.</li>
+<li><strong>Thomas Myer:</strong> Author of one of the first CodeIgniter books with years of experience developing and deploying web applications to clients.</li>
+<li><strong>Ryan Irelan:</strong> There are a handful of people in the EE Community that EllisLab considers &#8220;Community Avatars&#8221; because they embody in a single person what the EE Community is all about. By day he works for Happy Cog, by night he&#8217;s the Community Super Hero who has single handedly empowered thousands of developers to be more successful.</li>
+<li><strong>Leevi Graham:</strong> One of the premiere EE add-on developers with years of experience deploying EE add-ons in all sorts of environments&#8230; from small budgets to enterprise installations.</li>
+<li><strong>Lea Alcantara:</strong> Marketing and Branding superstar featured all over the web, from A List Apart to .NET Magazine. In-addition she is considered one of the <a href="http://indeziner.com/design/50-best-female-web-designers-around-the-world">50 Best Female Web Designers in the World</a>.</li>
+<li><strong>Ed Finkler:</strong> Security expert from <a href="http://www.cerias.purdue.edu/">CERIAS at Purdue University</a> who loves integrating CodeIgniter with other technologies like Appcelerator Titanium, Adobe AIR, PhoneGap, and good &#8220;old fashioned&#8221; JavaScript.</li>
+<li><strong>Jamie Pittock:</strong> One of Erskine Design&#8217;s super stars with years of experience deploying EE for high end corporate and enterprise level clients.</li>
+<li><strong>Jamie Rumblelow:</strong> He&#8217;s done more at age 15 then most people have by 60. Seriously. He&#8217;s EllisLab&#8217;s CodeIgniter Community Chieftain, and a specialist at energizing people to do more with passion and joy. I didn&#8217;t believe &#8220;the hype&#8221; about Jamie until I met him at EECI2009.</li>
+<li><strong>Brandon Kelly:</strong> Brandon makes a few of the most beloved ExpressionEngine add-ons. People threaten EllisLab with bodily harm if they break his add-ons. Okay, that might be an exaggeration but not by much. Brandon&#8217;s ability to design compelling user experiences set the standard that 3rd party add-ons are measured by.</li>
+<li><strong>Mark Huot:</strong> Mark designed one of the only add-ons that become so popular EllisLab was compelled to integrate it directly into ExpressionEngine. Its a singular accomplishment that has yet to be matched. He is also part of Happy Cog and brings years of high-end EE development and deployment experience.</li>
+<li><strong>Lodewijk Schutte:</strong> He named his houseboat Float:</strong>Right because that&#8217;s what a dedicated front-end specialist does! &#8220;Low&#8221; is an outstanding member of the EE Community with a particular knack for using PHP in EE templates.</li>
+<li><strong>Greg Wood:</strong> Another hero from Erskine Design, Greg is an expert in designing for content, a discipline that is becoming known as &#8220;editorial design.&#8221; He&#8217;s committed to giving content the attention it deserves.</li>
+<li><strong>Michael Boyink:</strong> Mike is another EE Community Avatar. He wrote the first book on ExpressionEngine and runs the most successful ExpressionEngine education service, <a href="http://train-ee.com">Train-ee</a>. Mike is particularly known for the wisdom he brings to the planning process and utilizing it to create extremely cost effect websites. He&#8217;s also the person EllisLab selected to research ExpressionEngine Certification options.</li>
+<li><strong>Travis Schmeisser:</strong> Travis dared to change the way people build EE sites with Structure, he&#8217;s popular add-on that enables people to build EE sites in a really different way. People love or hate it, the mark of focused, quality work that has earned him the respect of the community.</li>
+<li><strong>Leslie Flinger:</strong> Blue Flavor&#8217;s ExpressionEngine expert, an experienced educator, accomplished blogger, known for doing everything in a human friendly fashion. She has deployed 100s of EE sites in the wild from the very small, to the very big.</li>
+<li><strong>Kenny Meyers:</strong> Mr. Meyers has deployed a number of large, complex EE installations in his time. He&#8217;s also a CodeIgniter specialist and a regular contributor to EE Insider.</li>
+<li><strong>Matt Weinberg:</strong> Matt is an expert at integrating ecommerce into ExpressionEngine. At EECI2010 he&#8217;ll share his unique perspective on that with you.</li>
+<li><strong>Anton Peck:</strong> A celebrated &#8220;Jack of All trades&#8221;, Anton is known for his creative approach to just about everything (illustration, coding, blogging, community&#8230;), including innovative ways of deploying conditionals in EE templates.</li>
+<li><strong>Jonathan Longnecker:</strong> Jonathan is co-founder of FortySeven Media, a team known for their creative an entrepreneurial approach to the web professional community.</li>
+</ul>
+
+<p>Whew! That is literally decades and decades of real world experience with ExpressionEngine, CodeIgniter, and related web professional fields to learn from. Plus, don&#8217;t forget that just about <a href="http://expressionengine.com/blog/entry/10_rick_team/">all of EllisLab will be attending</a>. We&#8217;ve gathered them all up in a single location and made it as easy as possible to integrate their knowledge into your own endeavors. </p>
+
+<p>What EECI represents is an unbelievable return on investment for your time and money. In a few short days for a comparative small amount, you have access to people with information that can absolutely help take your business to the next level. </p>
+
+<p>I&#8217;ve personally met and know most of the speakers on the list. They are people who want to help you succeed and who want to learn from you as much as you want to learn from them. We are a community that helps each other succeed, a phenomenon we&#8217;ve enjoyed being a part of for years. We know it works. </p>
+
+<p>This is your opportunity to invest in your future success and the community at the same time, to share in an experience that is unique to the EE and CI Community. </p>
+
+<p>See you at EECI. 
+</p>";s:4:"guid";s:69:"http://expressionengine.com/blog/entry/eeci2010_7_roi/#When:23:10:26Z";s:7:"pubdate";s:29:"Fri, 30 Apr 2010 23:10:26 GMT";s:7:"summary";s:8259:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now</a>!</p>
+
+<p>Do you make some or all of your living deploying ExpressionEngine and/or CodeIgniter? Do you want an opportunity that has an unbelievably high return on investment for your time and money? Then please carefully consider this list of <a href="http://eeci2010.com/speakers/">EECI2010 speakers</a>:</strong> </p>
+
+<ul class="blogLists">
+<li><strong>Rick Ellis:</strong> Wrote pMachine, ExpressionEngine, and CodeIgniter. EECI is a rare opportunity to meet one of the people who shaped blogging and web publishing from the beginning.</li>
+<li><strong>Leslie Camacho:</strong> I&#8217;ve helped thousands of web professionals succeed for over a decade and I&#8217;ve had the privelidge of building one of the most influential web publishing software companies.</li>
+<li><strong>Derek Jones:</strong> The current mastermind behind most of ExpressionEngine and CodeIgniter&#8217;s on going development with years of experience deploying code to thousands of users.</li>
+<li><strong>Derek Allard:</strong> Creative specialist with years of experience translating community feedback into an improved software platform. Plus, he&#8217;s the&#8230; actually, can&#8217;t talk about that yet.</li>
+<li><strong>Simon Collison:</strong> The mighty Simon Collison, known best as Colly, has been an EE evangelist almost from day one. Colly was the first to write in-depth EE tutorials in a book from a major publisher but is best known for being a design super star. He was one the brains behind the ExpressionEngine 2.0 Example Site that helps people learn EE from the HTML/CSS all the way through final implementation. He gave one of the best presentations at EECI2009 and I&#8217;m personally looking forward to what he does at EECI2010.</li>
+<li><strong>Adii Rockstar:</strong> One of the masterminds behind <a href="http://woothemes.com">WooThemes</a>, one of the most successful and influential theme communities.</li>
+<li><strong>Thomas Myer:</strong> Author of one of the first CodeIgniter books with years of experience developing and deploying web applications to clients.</li>
+<li><strong>Ryan Irelan:</strong> There are a handful of people in the EE Community that EllisLab considers &#8220;Community Avatars&#8221; because they embody in a single person what the EE Community is all about. By day he works for Happy Cog, by night he&#8217;s the Community Super Hero who has single handedly empowered thousands of developers to be more successful.</li>
+<li><strong>Leevi Graham:</strong> One of the premiere EE add-on developers with years of experience deploying EE add-ons in all sorts of environments&#8230; from small budgets to enterprise installations.</li>
+<li><strong>Lea Alcantara:</strong> Marketing and Branding superstar featured all over the web, from A List Apart to .NET Magazine. In-addition she is considered one of the <a href="http://indeziner.com/design/50-best-female-web-designers-around-the-world">50 Best Female Web Designers in the World</a>.</li>
+<li><strong>Ed Finkler:</strong> Security expert from <a href="http://www.cerias.purdue.edu/">CERIAS at Purdue University</a> who loves integrating CodeIgniter with other technologies like Appcelerator Titanium, Adobe AIR, PhoneGap, and good &#8220;old fashioned&#8221; JavaScript.</li>
+<li><strong>Jamie Pittock:</strong> One of Erskine Design&#8217;s super stars with years of experience deploying EE for high end corporate and enterprise level clients.</li>
+<li><strong>Jamie Rumblelow:</strong> He&#8217;s done more at age 15 then most people have by 60. Seriously. He&#8217;s EllisLab&#8217;s CodeIgniter Community Chieftain, and a specialist at energizing people to do more with passion and joy. I didn&#8217;t believe &#8220;the hype&#8221; about Jamie until I met him at EECI2009.</li>
+<li><strong>Brandon Kelly:</strong> Brandon makes a few of the most beloved ExpressionEngine add-ons. People threaten EllisLab with bodily harm if they break his add-ons. Okay, that might be an exaggeration but not by much. Brandon&#8217;s ability to design compelling user experiences set the standard that 3rd party add-ons are measured by.</li>
+<li><strong>Mark Huot:</strong> Mark designed one of the only add-ons that become so popular EllisLab was compelled to integrate it directly into ExpressionEngine. Its a singular accomplishment that has yet to be matched. He is also part of Happy Cog and brings years of high-end EE development and deployment experience.</li>
+<li><strong>Lodewijk Schutte:</strong> He named his houseboat Float:</strong>Right because that&#8217;s what a dedicated front-end specialist does! &#8220;Low&#8221; is an outstanding member of the EE Community with a particular knack for using PHP in EE templates.</li>
+<li><strong>Greg Wood:</strong> Another hero from Erskine Design, Greg is an expert in designing for content, a discipline that is becoming known as &#8220;editorial design.&#8221; He&#8217;s committed to giving content the attention it deserves.</li>
+<li><strong>Michael Boyink:</strong> Mike is another EE Community Avatar. He wrote the first book on ExpressionEngine and runs the most successful ExpressionEngine education service, <a href="http://train-ee.com">Train-ee</a>. Mike is particularly known for the wisdom he brings to the planning process and utilizing it to create extremely cost effect websites. He&#8217;s also the person EllisLab selected to research ExpressionEngine Certification options.</li>
+<li><strong>Travis Schmeisser:</strong> Travis dared to change the way people build EE sites with Structure, he&#8217;s popular add-on that enables people to build EE sites in a really different way. People love or hate it, the mark of focused, quality work that has earned him the respect of the community.</li>
+<li><strong>Leslie Flinger:</strong> Blue Flavor&#8217;s ExpressionEngine expert, an experienced educator, accomplished blogger, known for doing everything in a human friendly fashion. She has deployed 100s of EE sites in the wild from the very small, to the very big.</li>
+<li><strong>Kenny Meyers:</strong> Mr. Meyers has deployed a number of large, complex EE installations in his time. He&#8217;s also a CodeIgniter specialist and a regular contributor to EE Insider.</li>
+<li><strong>Matt Weinberg:</strong> Matt is an expert at integrating ecommerce into ExpressionEngine. At EECI2010 he&#8217;ll share his unique perspective on that with you.</li>
+<li><strong>Anton Peck:</strong> A celebrated &#8220;Jack of All trades&#8221;, Anton is known for his creative approach to just about everything (illustration, coding, blogging, community&#8230;), including innovative ways of deploying conditionals in EE templates.</li>
+<li><strong>Jonathan Longnecker:</strong> Jonathan is co-founder of FortySeven Media, a team known for their creative an entrepreneurial approach to the web professional community.</li>
+</ul>
+
+<p>Whew! That is literally decades and decades of real world experience with ExpressionEngine, CodeIgniter, and related web professional fields to learn from. Plus, don&#8217;t forget that just about <a href="http://expressionengine.com/blog/entry/10_rick_team/">all of EllisLab will be attending</a>. We&#8217;ve gathered them all up in a single location and made it as easy as possible to integrate their knowledge into your own endeavors. </p>
+
+<p>What EECI represents is an unbelievable return on investment for your time and money. In a few short days for a comparative small amount, you have access to people with information that can absolutely help take your business to the next level. </p>
+
+<p>I&#8217;ve personally met and know most of the speakers on the list. They are people who want to help you succeed and who want to learn from you as much as you want to learn from them. We are a community that helps each other succeed, a phenomenon we&#8217;ve enjoyed being a part of for years. We know it works. </p>
+
+<p>This is your opportunity to invest in your future success and the community at the same time, to share in an experience that is unique to the EE and CI Community. </p>
+
+<p>See you at EECI. 
+</p>";}i:6;a:9:{s:5:"title";s:56:"EECI2010 Top Ten, #8! EllisLab Partnership Opportunities";s:4:"link";s:57:"http://expressionengine.com/blog/entry/eeci2010_topten_8/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:57:"http://expressionengine.com/blog/entry/eeci2010_topten_8/";s:11:"description";s:4591:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></p>
+
+<p>We&#8217;ve given ourselves the mandate that 2010 is the Year of the Community. We&#8217;ve been quietly building relationships and investing in Community led resources to help ensure that they remain alive and viable for a long time. </p>
+
+<p>For example, EllisLab and <a href="http://enginehosting.com">EngineHosting</a> have been working with Ryan Masuga at <a href="http://devot-ee.com">Devot:ee</a> to make Devot:ee the official go-to place for 3rd party add-on info. EngineHosting has donated hosting services and EllisLab&#8217;s Greg Aker has lent his expertise to Ryan as needed. </p>
+
+<p>We&#8217;ve been working with Marcus Neto and Jeff Claeson on <a href="http://show-ee.com">Show-ee</a>. The initial response from the soft launch has been fantastic. Our goal is to make Show-ee the official Community Showcase and change the way we do the Showcase at ExpressionEngine.com. We&#8217;re not there yet, but that&#8217;s our shared goal, to provide a platform that lets the Community&#8217;s EE work stand proud in the way it deserves. We&#8217;re looking forward to seeing where Marcus and Jeff take it. </p>
+
+<p>We&#8217;re working with EE Community veteran Ryan Irelan over at <a href="http://eeinsider.com">EE Insider</a> to find better ways to promote Community news and resources. I can&#8217;t say what the specifics of that are just yet, but you&#8217;ll likely find out at EECI2010. </p>
+
+<p>Then there is our work with Mike Boyink over at <a href="http://train-ee.com">Train-ee</a> to research different options for EE certification and better professional training resources. Mike has done an incredible job of talking with people and providing detailed feedback and suggestions. </p>
+
+<p>Our goal is to provide tangible benefits and resources to each project that help them succeed while allowing them to retain independence from EllisLab. In short, we want to help them do what they do best without influencing the content or substance of what they do. Their independence is what makes them shine. </p>
+
+<p>We&#8217;re working on a few more that aren&#8217;t quite far enough along to talk about just yet but we&#8217;re getting to them as fast as we possibly can. And, of course, we have several great proposals from people we highly respect that we&#8217;re looking forward to investigating. </p>
+
+<p>If you&#8217;ve made it this far into the post there is a good chance that you have an opportunity you want to discuss with EllisLab. We literally get 100s of pitches over the course of a year and 99% of them never happen. The ones that do all have one thing in common. We&#8217;ve met the people involved and they&#8217;ve taken the time to get to know us. </p>
+
+<p><a href="http://eeci2010.com">EECI2010</a> is the best opportunity you will have all year to meet us and share your idea with us. Its your chance to shake our hands, sit down, and find out if an idea has life or not. </p>
+
+<p>The examples above are just that, examples. If you have an idea, we&#8217;re interested in hearing you out. Or perhaps you don&#8217;t have a specific idea but just a general sense that you and EllisLab should be working together. Maybe you&#8217;re an EllisLab customer that just wants the ear of the President for awhile. That&#8217;s perfectly fine too. If you have a passion for seeing the Pro Net reworked, I&#8217;d love to meet with you about that (we&#8217;ve been quietly looking for a Pro Net Champ to help implement a much needed Pro Net refresh). </p>
+
+<p>I&#8217;m making myself available for private and small group meetings (as appropriate) throughout EECI to as many EE &amp; CI entrepreneurs as possible. This opportunity is restricted to EECI2010 ticket holders. We&#8217;re most interested in working with those who show up, see the Community in person, and invest in its future success. </p>
+
+<p>To setup an appointment just . I&#8217;d love to hear from you and setup the appointment in advance. Your email should include your full name and a brief summary of what you&#8217;d like our meeting to accomplish. I will accommodate as many requests as humanly possible.</p>
+
+<p>The meetings will not be on a first come, first serve basis. Preference will be given to Pro Net members and people who are actively involved in the EE Community in some way. If that doesn&#8217;t describe you, email me anyway! Its not meant to be a discouragement. </p>
+
+<p>See you at EECI!
+</p>";s:4:"guid";s:72:"http://expressionengine.com/blog/entry/eeci2010_topten_8/#When:23:23:20Z";s:7:"pubdate";s:29:"Tue, 27 Apr 2010 23:23:20 GMT";s:7:"summary";s:4591:"<p><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></p>
+
+<p>We&#8217;ve given ourselves the mandate that 2010 is the Year of the Community. We&#8217;ve been quietly building relationships and investing in Community led resources to help ensure that they remain alive and viable for a long time. </p>
+
+<p>For example, EllisLab and <a href="http://enginehosting.com">EngineHosting</a> have been working with Ryan Masuga at <a href="http://devot-ee.com">Devot:ee</a> to make Devot:ee the official go-to place for 3rd party add-on info. EngineHosting has donated hosting services and EllisLab&#8217;s Greg Aker has lent his expertise to Ryan as needed. </p>
+
+<p>We&#8217;ve been working with Marcus Neto and Jeff Claeson on <a href="http://show-ee.com">Show-ee</a>. The initial response from the soft launch has been fantastic. Our goal is to make Show-ee the official Community Showcase and change the way we do the Showcase at ExpressionEngine.com. We&#8217;re not there yet, but that&#8217;s our shared goal, to provide a platform that lets the Community&#8217;s EE work stand proud in the way it deserves. We&#8217;re looking forward to seeing where Marcus and Jeff take it. </p>
+
+<p>We&#8217;re working with EE Community veteran Ryan Irelan over at <a href="http://eeinsider.com">EE Insider</a> to find better ways to promote Community news and resources. I can&#8217;t say what the specifics of that are just yet, but you&#8217;ll likely find out at EECI2010. </p>
+
+<p>Then there is our work with Mike Boyink over at <a href="http://train-ee.com">Train-ee</a> to research different options for EE certification and better professional training resources. Mike has done an incredible job of talking with people and providing detailed feedback and suggestions. </p>
+
+<p>Our goal is to provide tangible benefits and resources to each project that help them succeed while allowing them to retain independence from EllisLab. In short, we want to help them do what they do best without influencing the content or substance of what they do. Their independence is what makes them shine. </p>
+
+<p>We&#8217;re working on a few more that aren&#8217;t quite far enough along to talk about just yet but we&#8217;re getting to them as fast as we possibly can. And, of course, we have several great proposals from people we highly respect that we&#8217;re looking forward to investigating. </p>
+
+<p>If you&#8217;ve made it this far into the post there is a good chance that you have an opportunity you want to discuss with EllisLab. We literally get 100s of pitches over the course of a year and 99% of them never happen. The ones that do all have one thing in common. We&#8217;ve met the people involved and they&#8217;ve taken the time to get to know us. </p>
+
+<p><a href="http://eeci2010.com">EECI2010</a> is the best opportunity you will have all year to meet us and share your idea with us. Its your chance to shake our hands, sit down, and find out if an idea has life or not. </p>
+
+<p>The examples above are just that, examples. If you have an idea, we&#8217;re interested in hearing you out. Or perhaps you don&#8217;t have a specific idea but just a general sense that you and EllisLab should be working together. Maybe you&#8217;re an EllisLab customer that just wants the ear of the President for awhile. That&#8217;s perfectly fine too. If you have a passion for seeing the Pro Net reworked, I&#8217;d love to meet with you about that (we&#8217;ve been quietly looking for a Pro Net Champ to help implement a much needed Pro Net refresh). </p>
+
+<p>I&#8217;m making myself available for private and small group meetings (as appropriate) throughout EECI to as many EE &amp; CI entrepreneurs as possible. This opportunity is restricted to EECI2010 ticket holders. We&#8217;re most interested in working with those who show up, see the Community in person, and invest in its future success. </p>
+
+<p>To setup an appointment just . I&#8217;d love to hear from you and setup the appointment in advance. Your email should include your full name and a brief summary of what you&#8217;d like our meeting to accomplish. I will accommodate as many requests as humanly possible.</p>
+
+<p>The meetings will not be on a first come, first serve basis. Preference will be given to Pro Net members and people who are actively involved in the EE Community in some way. If that doesn&#8217;t describe you, email me anyway! Its not meant to be a discouragement. </p>
+
+<p>See you at EECI!
+</p>";}i:7;a:9:{s:5:"title";s:76:"EECI2010 Top Ten, #9! Influence Development at Solspace’s CodeShare Corner";s:4:"link";s:75:"http://expressionengine.com/blog/entry/eeci2010_top_ten_9_codeshare_corner/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:75:"http://expressionengine.com/blog/entry/eeci2010_top_ten_9_codeshare_corner/";s:11:"description";s:2968:"<p><i><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year.</a> <a href="http://eeci2010.com">Register now!</a></i></p>
+
+<p><img src="http://expressionengine.com/files/blog/da_leevi_eeci2009.jpg" alt="Leevi Graham demos a new module to EllisLab's Derek Allard" width="400" height="267" /><br />
+(photo by <a href="http://www.flickr.com/photos/thewatchmakerproject/4039671480/in/set-72157622651293654">Matthew Pennell</a>)</p>
+
+<p>Here we see a classic EECI moment. Pictured above is  Leevi Graham, the guy known for writing EE add-ons in his sleep, demoing a new EE module to EllisLab Technology Architect Derek Allard. </p>
+
+<p>There were literally hundreds of such conversations that took place between EllisLab and you, the people. Each conversation was cataloged in a notebook. In fact, it was common to see someone from EllisLab with notebook and pen in hand taking scrupulous notes during or shortly after a conversation. </p>
+
+<p>Allard and I would meet back at the hotel or over food and drinks and share them back and forth. And when we needed clarity on specifics, we just found the people the next morning and asked. </p>
+
+<p>When EECI2009 concluded our collective notebooks traveled back across the ocean, were transcribed into digital form, and shared with the entire EllisLab team. </p>
+
+<p>We estimate that 70% of all EE &amp; CI development is driven by user feedback. We&#8217;re proud of how we consistently review feedback on the Feature Request forum, the Community Forums in general, and email. Our internal listening system works quite well and ensures that the community has a significant voice in our software&#8217;s development and direction. </p>
+
+<p>But there is absolutely no doubt that these face to face conversations influence ExpressionEngine &amp; CodeIgniter&#8217;s development more so than any other method. Sharing client war stories, implementation successes and failures, frustrations, victories, and ultimately understanding each other&#8217;s professional stories in person creates the best software. There is no digital intermediary to potentially muddy communication. </p>
+
+<p>There are numerous features, fixes, and implementation strategies in EE 2 and CI that we can trace directly back to conversations at EECI2009.</p>
+
+<p>EECI2010 will feature the CodeShare Corner (sponsored by <a href="http://solspace.com">Solspace</a>), a space dedicated to sharing stories and ideas, coffee, snacks, and a calm environment to recharge yourself and your gear. If you&#8217;ve ever met Mitchell and the incredible EE add-on dev team at Solspace, then you know he is the perfect person to host such a gathering. </p>
+
+<p>Its very likely you&#8217;ll find someone from EllisLab at the CodeShare Corner throughout <a href="http://eeci2010.com">EECI2010</a>. Come find us. We&#8217;re looking forward to shaking your hand and hearing your story. See you at EECI2010. 
+</p>";s:4:"guid";s:90:"http://expressionengine.com/blog/entry/eeci2010_top_ten_9_codeshare_corner/#When:21:31:21Z";s:7:"pubdate";s:29:"Fri, 23 Apr 2010 21:31:21 GMT";s:7:"summary";s:2968:"<p><i><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year.</a> <a href="http://eeci2010.com">Register now!</a></i></p>
+
+<p><img src="http://expressionengine.com/files/blog/da_leevi_eeci2009.jpg" alt="Leevi Graham demos a new module to EllisLab's Derek Allard" width="400" height="267" /><br />
+(photo by <a href="http://www.flickr.com/photos/thewatchmakerproject/4039671480/in/set-72157622651293654">Matthew Pennell</a>)</p>
+
+<p>Here we see a classic EECI moment. Pictured above is  Leevi Graham, the guy known for writing EE add-ons in his sleep, demoing a new EE module to EllisLab Technology Architect Derek Allard. </p>
+
+<p>There were literally hundreds of such conversations that took place between EllisLab and you, the people. Each conversation was cataloged in a notebook. In fact, it was common to see someone from EllisLab with notebook and pen in hand taking scrupulous notes during or shortly after a conversation. </p>
+
+<p>Allard and I would meet back at the hotel or over food and drinks and share them back and forth. And when we needed clarity on specifics, we just found the people the next morning and asked. </p>
+
+<p>When EECI2009 concluded our collective notebooks traveled back across the ocean, were transcribed into digital form, and shared with the entire EllisLab team. </p>
+
+<p>We estimate that 70% of all EE &amp; CI development is driven by user feedback. We&#8217;re proud of how we consistently review feedback on the Feature Request forum, the Community Forums in general, and email. Our internal listening system works quite well and ensures that the community has a significant voice in our software&#8217;s development and direction. </p>
+
+<p>But there is absolutely no doubt that these face to face conversations influence ExpressionEngine &amp; CodeIgniter&#8217;s development more so than any other method. Sharing client war stories, implementation successes and failures, frustrations, victories, and ultimately understanding each other&#8217;s professional stories in person creates the best software. There is no digital intermediary to potentially muddy communication. </p>
+
+<p>There are numerous features, fixes, and implementation strategies in EE 2 and CI that we can trace directly back to conversations at EECI2009.</p>
+
+<p>EECI2010 will feature the CodeShare Corner (sponsored by <a href="http://solspace.com">Solspace</a>), a space dedicated to sharing stories and ideas, coffee, snacks, and a calm environment to recharge yourself and your gear. If you&#8217;ve ever met Mitchell and the incredible EE add-on dev team at Solspace, then you know he is the perfect person to host such a gathering. </p>
+
+<p>Its very likely you&#8217;ll find someone from EllisLab at the CodeShare Corner throughout <a href="http://eeci2010.com">EECI2010</a>. Come find us. We&#8217;re looking forward to shaking your hand and hearing your story. See you at EECI2010. 
+</p>";}i:8;a:9:{s:5:"title";s:49:"Top Ten Reasons Why EECI is the Event of the Year";s:4:"link";s:56:"http://expressionengine.com/blog/entry/eeci2010_top_ten/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:56:"http://expressionengine.com/blog/entry/eeci2010_top_ten/";s:11:"description";s:1617:"<p><a href="http://eeci2010.com/">EECI 2010 is closing in fast! Fortunately for you there are still tickets available</a>. In case you need some help deciding if spending time in one of the best cities in the US with the best professional community on the internet hosted by the gracious Robert Eerhart and Whoooz! Webmedia is worth your while, we&#8217;ve put together a Top Ten list for you. We&#8217;ll post 2-3 times a week until we&#8217;ve gone through them all. </p>
+
+<p>10. <a href="http://expressionengine.com/blog/entry/10_rick_team/">Meet Rick Ellis &amp; The Team</a><br />
+9. <a href="http://expressionengine.com/blog/entry/eeci2010_top_ten_9_codeshare_corner/">Influence Development at Solspace&#8217;s CodeShare Corner</a><br />
+8. <a href="http://expressionengine.com/blog/entry/eeci2010_topten_8/">EllisLab Partnership Opportunities</a><br />
+7. <a href="http://expressionengine.com/blog/entry/eeci2010_7_roi/">Return on Investment</a><br />
+6. <a href="http://expressionengine.com/blog/entry/eeci2010_topten_6/">Solve Problems Quickly: An EE Guru Packed Event</a><br />
+5. <a href="http://expressionengine.com/blog/entry/eeci2010_top_ten_5/">Meet your favorite Add-on Developers</a><br />
+4. <a href="http://expressionengine.com/blog/entry/eeci2010_top10_4/">Win an iPad &amp; Get Limited Edition Swag</a><br />
+3. <a href="http://expressionengine.com/blog/entry/eeci2010_ten_3/">Meet The Ryans, the Dynamic Duo Behind EE Insider and Devot-ee</a><br />
+2. The EllisLab Keynote: The Latest on EE, CI First<br />
+1. The Best Community on the Net, Live</p>
+
+<p>Don&#8217;t miss it! See you there. 
+</p>";s:4:"guid";s:71:"http://expressionengine.com/blog/entry/eeci2010_top_ten/#When:21:26:49Z";s:7:"pubdate";s:29:"Wed, 21 Apr 2010 21:26:49 GMT";s:7:"summary";s:1617:"<p><a href="http://eeci2010.com/">EECI 2010 is closing in fast! Fortunately for you there are still tickets available</a>. In case you need some help deciding if spending time in one of the best cities in the US with the best professional community on the internet hosted by the gracious Robert Eerhart and Whoooz! Webmedia is worth your while, we&#8217;ve put together a Top Ten list for you. We&#8217;ll post 2-3 times a week until we&#8217;ve gone through them all. </p>
+
+<p>10. <a href="http://expressionengine.com/blog/entry/10_rick_team/">Meet Rick Ellis &amp; The Team</a><br />
+9. <a href="http://expressionengine.com/blog/entry/eeci2010_top_ten_9_codeshare_corner/">Influence Development at Solspace&#8217;s CodeShare Corner</a><br />
+8. <a href="http://expressionengine.com/blog/entry/eeci2010_topten_8/">EllisLab Partnership Opportunities</a><br />
+7. <a href="http://expressionengine.com/blog/entry/eeci2010_7_roi/">Return on Investment</a><br />
+6. <a href="http://expressionengine.com/blog/entry/eeci2010_topten_6/">Solve Problems Quickly: An EE Guru Packed Event</a><br />
+5. <a href="http://expressionengine.com/blog/entry/eeci2010_top_ten_5/">Meet your favorite Add-on Developers</a><br />
+4. <a href="http://expressionengine.com/blog/entry/eeci2010_top10_4/">Win an iPad &amp; Get Limited Edition Swag</a><br />
+3. <a href="http://expressionengine.com/blog/entry/eeci2010_ten_3/">Meet The Ryans, the Dynamic Duo Behind EE Insider and Devot-ee</a><br />
+2. The EllisLab Keynote: The Latest on EE, CI First<br />
+1. The Best Community on the Net, Live</p>
+
+<p>Don&#8217;t miss it! See you there. 
+</p>";}i:9;a:9:{s:5:"title";s:53:"EECI2010 Top Ten, #10! Meet Rick Ellis &amp; The Team";s:4:"link";s:52:"http://expressionengine.com/blog/entry/10_rick_team/";s:2:"dc";a:1:{s:7:"creator";s:14:"Leslie Camacho";}s:8:"category";s:15:"NewsThe Insider";s:8:"comments";s:52:"http://expressionengine.com/blog/entry/10_rick_team/";s:11:"description";s:2405:"<p><i><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></i> </p>
+
+<p>EECI2009 was so incredible that it convinced us to gather our team from around the globe and meet all of you at EECI2010. At EECI2010 you&#8217;ll meet&#8230;</p>
+
+<p>The Super Hero Front Line, otherwise known as our Technical Support Specialist team: </p>
+
+<ul class="blogLists">
+<li>Sue Crocker</li>
+<li>John Donovan</li>
+<li>Greg Salt</li>
+<li>Brandon Jones</li>
+</ul>
+
+<p>You&#8217;ll meet their fearless leader Lisa Wess, our Director of Community Services (rumor has it she is the real power behind all of EllisLab). </p>
+
+<p>The ExpressionEngine and CodeIgniter Code Heroes that make up the Development Team:</p>
+
+<ul class="blogLists">
+<li>Derek Allard</li>
+<li>Robin Sowell</li>
+<li>Greg Aker</li>
+<li>Pascal Kriete</li>
+</ul><p>
+The Dev Team is led by our intrepid CTO, Derek Jones. </p>
+
+<p>You&#8217;ll also meet me, the President of EllisLab though I&#8217;m better known as &#8220;that guy who brings the coffee and keeps things running.&#8221; </p>
+
+<p>Plus <a href="http://enginehosting.com">EngineHosting</a> CTO Nevin Lyne will be there along with Senior Manager Laurie Ruggles. If you weren&#8217;t already aware, Nevin is to servers as Joe Satriani is to guitars. Yes, he&#8217;s that good. Just strike up a conversation about anything hosting related and see for yourself. If you were at the last big EllisLab SXSW party at the Moonshine then you saw Laurie&#8217;s work first hand, as she headed up the team that decked out the Moonshine in spectacular fashion that evening. </p>
+
+<p>And finally, EECI2009 was an event of such impressive magnitude that it lured our founder out of hiding. Yes, Rick Ellis the Owner and Chief Entrepreneur of EllisLab will be attending EECI2010. Rumors that Rick Ellis will be participating in the Keynote to bring you up to speed on EE, CI, and the future of EllisLab are completely true. </p>
+
+<p>We hope you all come and join us. We love meeting people. We make ExpressionEngine and CodeIgniter for you. We want it to make your lives better and help you build great things. We take our job of <em>saving the Internet one site at a time</em> seriously and this is our collective chance to come together and work toward that goal in person. See you in May!
+</p>";s:4:"guid";s:67:"http://expressionengine.com/blog/entry/10_rick_team/#When:20:49:23Z";s:7:"pubdate";s:29:"Wed, 21 Apr 2010 20:49:23 GMT";s:7:"summary";s:2405:"<p><i><a href="http://expressionengine.com/blog/entry/eeci2010_top_ten/">Top Ten Reasons Why EECI is the Event of the Year</a>. <a href="http://eeci2010.com">Register now!</a></i> </p>
+
+<p>EECI2009 was so incredible that it convinced us to gather our team from around the globe and meet all of you at EECI2010. At EECI2010 you&#8217;ll meet&#8230;</p>
+
+<p>The Super Hero Front Line, otherwise known as our Technical Support Specialist team: </p>
+
+<ul class="blogLists">
+<li>Sue Crocker</li>
+<li>John Donovan</li>
+<li>Greg Salt</li>
+<li>Brandon Jones</li>
+</ul>
+
+<p>You&#8217;ll meet their fearless leader Lisa Wess, our Director of Community Services (rumor has it she is the real power behind all of EllisLab). </p>
+
+<p>The ExpressionEngine and CodeIgniter Code Heroes that make up the Development Team:</p>
+
+<ul class="blogLists">
+<li>Derek Allard</li>
+<li>Robin Sowell</li>
+<li>Greg Aker</li>
+<li>Pascal Kriete</li>
+</ul><p>
+The Dev Team is led by our intrepid CTO, Derek Jones. </p>
+
+<p>You&#8217;ll also meet me, the President of EllisLab though I&#8217;m better known as &#8220;that guy who brings the coffee and keeps things running.&#8221; </p>
+
+<p>Plus <a href="http://enginehosting.com">EngineHosting</a> CTO Nevin Lyne will be there along with Senior Manager Laurie Ruggles. If you weren&#8217;t already aware, Nevin is to servers as Joe Satriani is to guitars. Yes, he&#8217;s that good. Just strike up a conversation about anything hosting related and see for yourself. If you were at the last big EllisLab SXSW party at the Moonshine then you saw Laurie&#8217;s work first hand, as she headed up the team that decked out the Moonshine in spectacular fashion that evening. </p>
+
+<p>And finally, EECI2009 was an event of such impressive magnitude that it lured our founder out of hiding. Yes, Rick Ellis the Owner and Chief Entrepreneur of EllisLab will be attending EECI2010. Rumors that Rick Ellis will be participating in the Keynote to bring you up to speed on EE, CI, and the future of EllisLab are completely true. </p>
+
+<p>We hope you all come and join us. We love meeting people. We make ExpressionEngine and CodeIgniter for you. We want it to make your lives better and help you build great things. We take our job of <em>saving the Internet one site at a time</em> seriously and this is our collective chance to come together and work toward that goal in person. See you in May!
+</p>";}i:10;a:9:{s:5:"title";s:49:"New releases to both versions of ExpressionEngine";s:4:"link";s:89:"http://expressionengine.com/blog/entry/new_releases_to_both_versions_of_expressionengine/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:89:"http://expressionengine.com/blog/entry/new_releases_to_both_versions_of_expressionengine/";s:11:"description";s:2402:"<p>ExpressionEngine has been updated today, both versions: to 1.6.9 and 2.0.2 Public Beta.&nbsp; To view all of the changes, please refer to the change logs for each: <a href="http://expressionengine.com/docs/changelog.html#v169">v1.6.9 Change Log</a> and <a href="http://expressionengine.com/public_beta/docs/changelog.html#v202pb">v2.0.2 Public Beta Change Log</a>.</p>
+
+<p>Active development on ExpressionEngine 1.x has indeed ceased, but support and bug fixes will continue for some time.&nbsp; A particular bug fix relating to the Pages module required a database change, which necessitates a version update rather than only replacing files.</p>
+
+<p>As a result, it is imperative with this release that if you are running any add-ons that utilize the Pages module, or are interacting with the &#8216;site_pages&#8217; array directly via PHP in your templates, you will need to update the add-ons or code per the version update notes: <a href="http://expressionengine.com/docs/installation/version_notes_1.6.9.html">1.6.9 notes</a> and <a href="http://expressionengine.com/public_beta/docs/installation/version_notes_2.0.2.html">2.0.2 notes</a>.&nbsp; Not updating these add-ons or code simultaneous to performing the ExpressionEngine update may result in broken pages. Add-ons that may be affected include Structure, LG Better Meta, and the Nested Menu Plugin.&nbsp; Developers of these add-ons were given pre-release code to have opportunity to update their public releases.&nbsp; Please check for modified versions before updating.</p>
+
+<p>The development team considers this a big milestone for the 2.0 Public Beta, having fixed 130 bugs, restored some extension hooks, and bringing the application closer to our goals for 2.1.</p>
+
+<p>Since we required a database update to 1.x, we did happen to sneak in one feature into 1.6.9 that was suggested to us by Jim at <a href="http://transmodern.net/">Transmodern Media</a>, an enhancement to ExpressionEngine&#8217;s Password Lockout feature.&nbsp; The feature now has additional protection against brute force attacks, an extremely rare event that would often be protected already by use of the Throttling feature, but nonetheless, this feature has been modified to help prevent &#8220;smart&#8221; brute force crackers from trying to play the system, improving the security of accounts on your installation that may be using weak passwords.
+</p>";s:4:"guid";s:104:"http://expressionengine.com/blog/entry/new_releases_to_both_versions_of_expressionengine/#When:21:27:53Z";s:7:"pubdate";s:29:"Thu, 15 Apr 2010 21:27:53 GMT";s:7:"summary";s:2402:"<p>ExpressionEngine has been updated today, both versions: to 1.6.9 and 2.0.2 Public Beta.&nbsp; To view all of the changes, please refer to the change logs for each: <a href="http://expressionengine.com/docs/changelog.html#v169">v1.6.9 Change Log</a> and <a href="http://expressionengine.com/public_beta/docs/changelog.html#v202pb">v2.0.2 Public Beta Change Log</a>.</p>
+
+<p>Active development on ExpressionEngine 1.x has indeed ceased, but support and bug fixes will continue for some time.&nbsp; A particular bug fix relating to the Pages module required a database change, which necessitates a version update rather than only replacing files.</p>
+
+<p>As a result, it is imperative with this release that if you are running any add-ons that utilize the Pages module, or are interacting with the &#8216;site_pages&#8217; array directly via PHP in your templates, you will need to update the add-ons or code per the version update notes: <a href="http://expressionengine.com/docs/installation/version_notes_1.6.9.html">1.6.9 notes</a> and <a href="http://expressionengine.com/public_beta/docs/installation/version_notes_2.0.2.html">2.0.2 notes</a>.&nbsp; Not updating these add-ons or code simultaneous to performing the ExpressionEngine update may result in broken pages. Add-ons that may be affected include Structure, LG Better Meta, and the Nested Menu Plugin.&nbsp; Developers of these add-ons were given pre-release code to have opportunity to update their public releases.&nbsp; Please check for modified versions before updating.</p>
+
+<p>The development team considers this a big milestone for the 2.0 Public Beta, having fixed 130 bugs, restored some extension hooks, and bringing the application closer to our goals for 2.1.</p>
+
+<p>Since we required a database update to 1.x, we did happen to sneak in one feature into 1.6.9 that was suggested to us by Jim at <a href="http://transmodern.net/">Transmodern Media</a>, an enhancement to ExpressionEngine&#8217;s Password Lockout feature.&nbsp; The feature now has additional protection against brute force attacks, an extremely rare event that would often be protected already by use of the Throttling feature, but nonetheless, this feature has been modified to help prevent &#8220;smart&#8221; brute force crackers from trying to play the system, improving the security of accounts on your installation that may be using weak passwords.
+</p>";}i:11;a:9:{s:5:"title";s:15:"SXSW 2010 Recap";s:4:"link";s:55:"http://expressionengine.com/blog/entry/sxsw_2010_recap/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:55:"http://expressionengine.com/blog/entry/sxsw_2010_recap/";s:11:"description";s:6800:"<p>SXSW gets bigger every year, with an outward appearance of being this massive overwhelming event where opportunities for focused interaction with individuals seems like a fool&#8217;s hope.&nbsp; And each year we&#8217;ve found new ways to squeeze the most out of it.</p>
+
+<p>This year for much of the weekend we put our schedules into your hands, went where you wanted, and engaged in conversations that were important to you.&nbsp; Between the UserVoice sessions and the meals we hosted, this year seemed to afford more opportunities for in depth conversations with users and developers on how EllisLab can help them to succeed in their businesses.</p>
+
+<p>The diversity was amazing, ranging from people new to ExpressionEngine sharing a table with vets and professional developers, all the way to educators using CodeIgniter in their curriculum.&nbsp; The wide range of interest that SXSW attracts undoubtedly brings together the full spectrum of our users to the same place, and it was a blast.</p>
+
+<p>The <a href="http://www.austinducks.com/">Austin Duck Adventure</a> was a perfect respite, escaping the downtown area out to Lake Austin, where the amphibous bus carrying our 20 guests promptly drove into the water and cruised around in beautiful weather.</p>
+
+<p>Our UserVoice panels packed out the Executive Lounge in the Hilton, and the topics you chose (&#8220;Module Building from the Experts&#8221; and &#8220;CodeIgniter Web Apps with ExpressionEngine&#8221;) certainly kept us on our toes.&nbsp; For those who weren&#8217;t able to attend, there were two big takeaways from these discussions.</p>
+
+<p>The first is that a key ingredient to a successful add-on is the amount of time and thought put into deciding what type of add-on the feature you&#8217;re building is best suited for.&nbsp; Much of that discussion focused on the new add-on type, Accessories, as they give both novices and expert developers alike nearly unlimited power to add persistent information to the ExpressionEngine control panel without any hacks or worrying with Extensions.</p>
+
+<p>The second was a discussion about how a CodeIgniter application can benefit from running alongside or from within ExpressionEngine.&nbsp; Some applications are suited to run outside of the ExpressionEngine instance (a request heavy application that doesn&#8217;t need all of ExpressionEngine&#8217;s abilities for instance) and others are well suited to make extremely minor additions to allow them to run as fully built ExpressionEngine add-ons.&nbsp; Attendees were spitballing integration ideas, culminating in a long pause followed by a &#8220;wow, you&#8217;re blowing my mind&#8221; from one guest.</p>
+
+<p>The highlight for us personally had to be Monday&#8217;s &#8220;ExpressionEngine 2.0: Total Domination&#8221; panel, with <a href="http://www.happycog.com/">Happy Cog</a> speakers Ryan Irelan, Jenn Lukas, Brian Warren, and Mark Huot, moderated by Kenny Meyers.&nbsp; This crew did such a fabulous job (neither authored nor even sponsored by EllisLab, incidentally) that SXSW staff were commenting about how it was the best panel they had seen all weekend.&nbsp; <a href="http://eeinsider.com/blog/sxsw-expressionengine-panel-slides/">The slides</a> will give you a summary of the content, but they can&#8217;t capture just how well each speaker brought their topics to life.</p>
+
+<p>Kenny introduced the audience to ExpressionEngine, with user quotes from Obama and Zeus.&nbsp; He then introduced Ryan Irelan who showed how easy it is to use ExpressionEngine to build sites from any source of content, showcasing a racing client who used Twitter, Twitpics, and Twitvids to publish and share their media.&nbsp; ExpressionEngine was employed in a way that used entries to control the featured content of the site, aggregating this rich content from external services that the race team used through the day of a race.</p>
+
+<p>Jenn Lukas&#8217;s philosophy is that every site is different, but they&#8217;re also all a little bit the same.&nbsp; She really went the extra mile and launched a new site: <a href="http://starterfiles.com/">ExpressionEngine Starter Files</a>, a robust set of files meant to drop in place in an ExpressionEngine 2.0 installation as a starting point for the creation of any ExpressionEngine powered site.</p>
+
+<p>Brian Warren delved into the power of Accessories (the ExpressionEngine buzz word this year, it seems), showing how to harness their power to benefit your sites and your clients.&nbsp; Two featured Accessories were Derek Hogue&#8217;s beautiful <a href="http://devot-ee.com/add-ons/accessories/cp-analytics/">Google Analytics accessory</a> and Newism&#8217;s <a href="http://github.com/newism/nsm.addon_updater.ee_addon">Addon Updater</a>.</p>
+
+<p>Veteran developer Mark Huot talked about the Channel API: ExpressionEngine 2.0&#8217;s methods for interacting with your entries and Channel related metadata.&nbsp; Especially considering that this API is not yet fully documented for third party developers, Mark did a fantastic job of showcasing how much time and coding energy the new APIs can save.&nbsp; It was great to see some of these fundamental changes made in ExpressionEngine 2.0&#8217;s underlying architecture already benefitting developers, even while still in public beta.</p>
+
+<p>They ended with a Q&amp;A session, and we were practically blushing when someone who was completely new to ExpressionEngine asked on mic if the community was any good and the audience spontaneously erupted in a rowdy affirmative.&nbsp; You guys rock.</p>
+
+<p>That night, Robert Earhart of Whoooz! Media hosted the EECI preParty at The Library, generously providing pizza, drinks, and a space (complete with pool tables) for the community to hang out and chat about the <a href="http://eeci2010.com/">upcoming conference</a> in San Francisco.&nbsp; He also gave away three tickets to the May event, and we announced the random drawing winner of an EllisLab sponsored full conference pass: <a href="http://expressionengine.com/forums/member/35906/">Jesse Schutt</a>.&nbsp; Congratulations, Jesse!</p>
+
+<p>If the audience gathered at the EECI preParty was any indication, this event is one that you do <em>not</em> want to miss.&nbsp; The opportunities for learning, sharing, and networking with fellow ExpressionEngine and CodeIgniter professionals is unparalleled.</p>
+
+<p>SXSW 2010 was a wonderful event and this post only touches the tip of the iceberg.&nbsp; This year it really was all about you, and we could easily fill a book with the details of the conversations and connections made.&nbsp; A big thanks from all of us to those that were able to join us; we can&#8217;t wait until May to join up with you again and to meet those that couldn&#8217;t make it to SXSW!
+</p>";s:4:"guid";s:70:"http://expressionengine.com/blog/entry/sxsw_2010_recap/#When:22:57:59Z";s:7:"pubdate";s:29:"Thu, 01 Apr 2010 22:57:59 GMT";s:7:"summary";s:6800:"<p>SXSW gets bigger every year, with an outward appearance of being this massive overwhelming event where opportunities for focused interaction with individuals seems like a fool&#8217;s hope.&nbsp; And each year we&#8217;ve found new ways to squeeze the most out of it.</p>
+
+<p>This year for much of the weekend we put our schedules into your hands, went where you wanted, and engaged in conversations that were important to you.&nbsp; Between the UserVoice sessions and the meals we hosted, this year seemed to afford more opportunities for in depth conversations with users and developers on how EllisLab can help them to succeed in their businesses.</p>
+
+<p>The diversity was amazing, ranging from people new to ExpressionEngine sharing a table with vets and professional developers, all the way to educators using CodeIgniter in their curriculum.&nbsp; The wide range of interest that SXSW attracts undoubtedly brings together the full spectrum of our users to the same place, and it was a blast.</p>
+
+<p>The <a href="http://www.austinducks.com/">Austin Duck Adventure</a> was a perfect respite, escaping the downtown area out to Lake Austin, where the amphibous bus carrying our 20 guests promptly drove into the water and cruised around in beautiful weather.</p>
+
+<p>Our UserVoice panels packed out the Executive Lounge in the Hilton, and the topics you chose (&#8220;Module Building from the Experts&#8221; and &#8220;CodeIgniter Web Apps with ExpressionEngine&#8221;) certainly kept us on our toes.&nbsp; For those who weren&#8217;t able to attend, there were two big takeaways from these discussions.</p>
+
+<p>The first is that a key ingredient to a successful add-on is the amount of time and thought put into deciding what type of add-on the feature you&#8217;re building is best suited for.&nbsp; Much of that discussion focused on the new add-on type, Accessories, as they give both novices and expert developers alike nearly unlimited power to add persistent information to the ExpressionEngine control panel without any hacks or worrying with Extensions.</p>
+
+<p>The second was a discussion about how a CodeIgniter application can benefit from running alongside or from within ExpressionEngine.&nbsp; Some applications are suited to run outside of the ExpressionEngine instance (a request heavy application that doesn&#8217;t need all of ExpressionEngine&#8217;s abilities for instance) and others are well suited to make extremely minor additions to allow them to run as fully built ExpressionEngine add-ons.&nbsp; Attendees were spitballing integration ideas, culminating in a long pause followed by a &#8220;wow, you&#8217;re blowing my mind&#8221; from one guest.</p>
+
+<p>The highlight for us personally had to be Monday&#8217;s &#8220;ExpressionEngine 2.0: Total Domination&#8221; panel, with <a href="http://www.happycog.com/">Happy Cog</a> speakers Ryan Irelan, Jenn Lukas, Brian Warren, and Mark Huot, moderated by Kenny Meyers.&nbsp; This crew did such a fabulous job (neither authored nor even sponsored by EllisLab, incidentally) that SXSW staff were commenting about how it was the best panel they had seen all weekend.&nbsp; <a href="http://eeinsider.com/blog/sxsw-expressionengine-panel-slides/">The slides</a> will give you a summary of the content, but they can&#8217;t capture just how well each speaker brought their topics to life.</p>
+
+<p>Kenny introduced the audience to ExpressionEngine, with user quotes from Obama and Zeus.&nbsp; He then introduced Ryan Irelan who showed how easy it is to use ExpressionEngine to build sites from any source of content, showcasing a racing client who used Twitter, Twitpics, and Twitvids to publish and share their media.&nbsp; ExpressionEngine was employed in a way that used entries to control the featured content of the site, aggregating this rich content from external services that the race team used through the day of a race.</p>
+
+<p>Jenn Lukas&#8217;s philosophy is that every site is different, but they&#8217;re also all a little bit the same.&nbsp; She really went the extra mile and launched a new site: <a href="http://starterfiles.com/">ExpressionEngine Starter Files</a>, a robust set of files meant to drop in place in an ExpressionEngine 2.0 installation as a starting point for the creation of any ExpressionEngine powered site.</p>
+
+<p>Brian Warren delved into the power of Accessories (the ExpressionEngine buzz word this year, it seems), showing how to harness their power to benefit your sites and your clients.&nbsp; Two featured Accessories were Derek Hogue&#8217;s beautiful <a href="http://devot-ee.com/add-ons/accessories/cp-analytics/">Google Analytics accessory</a> and Newism&#8217;s <a href="http://github.com/newism/nsm.addon_updater.ee_addon">Addon Updater</a>.</p>
+
+<p>Veteran developer Mark Huot talked about the Channel API: ExpressionEngine 2.0&#8217;s methods for interacting with your entries and Channel related metadata.&nbsp; Especially considering that this API is not yet fully documented for third party developers, Mark did a fantastic job of showcasing how much time and coding energy the new APIs can save.&nbsp; It was great to see some of these fundamental changes made in ExpressionEngine 2.0&#8217;s underlying architecture already benefitting developers, even while still in public beta.</p>
+
+<p>They ended with a Q&amp;A session, and we were practically blushing when someone who was completely new to ExpressionEngine asked on mic if the community was any good and the audience spontaneously erupted in a rowdy affirmative.&nbsp; You guys rock.</p>
+
+<p>That night, Robert Earhart of Whoooz! Media hosted the EECI preParty at The Library, generously providing pizza, drinks, and a space (complete with pool tables) for the community to hang out and chat about the <a href="http://eeci2010.com/">upcoming conference</a> in San Francisco.&nbsp; He also gave away three tickets to the May event, and we announced the random drawing winner of an EllisLab sponsored full conference pass: <a href="http://expressionengine.com/forums/member/35906/">Jesse Schutt</a>.&nbsp; Congratulations, Jesse!</p>
+
+<p>If the audience gathered at the EECI preParty was any indication, this event is one that you do <em>not</em> want to miss.&nbsp; The opportunities for learning, sharing, and networking with fellow ExpressionEngine and CodeIgniter professionals is unparalleled.</p>
+
+<p>SXSW 2010 was a wonderful event and this post only touches the tip of the iceberg.&nbsp; This year it really was all about you, and we could easily fill a book with the details of the conversations and connections made.&nbsp; A big thanks from all of us to those that were able to join us; we can&#8217;t wait until May to join up with you again and to meet those that couldn&#8217;t make it to SXSW!
+</p>";}i:12;a:9:{s:5:"title";s:72:"EllisLab moves to Mercurial, Assembla, BitBucket; CodeIgniter 2.0 Baking";s:4:"link";s:109:"http://expressionengine.com/blog/entry/ellislab_moves_to_mercurial_assembla_bitbucket_codeigniter_2.0_baking/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:109:"http://expressionengine.com/blog/entry/ellislab_moves_to_mercurial_assembla_bitbucket_codeigniter_2.0_baking/";s:11:"description";s:639:"<p>EllisLab today announces changes to our internal development processes, including dropping Subversion in favor of <a href="http://mercurial.selenic.com/">Mercurial</a> and adopting <a href="http://assembla.com/">Assembla</a> as our agile software development management tool.&nbsp; Along with these changes, CodeIgniter 2.0 pre-release code is in development, and is now hosted at the Mercurial-focused social coding site <a href="http://bitbucket.org/">BitBucket</a>.</p>
+
+<p>Read the full details at <a href="http://codeigniter.com/news/ellislab_moves_to_mercurial_assembla_bitbucket_codeigniter_2.0_baking/">CodeIgniter.com</a>.
+</p>";s:4:"guid";s:124:"http://expressionengine.com/blog/entry/ellislab_moves_to_mercurial_assembla_bitbucket_codeigniter_2.0_baking/#When:16:00:18Z";s:7:"pubdate";s:29:"Thu, 11 Mar 2010 16:00:18 GMT";s:7:"summary";s:639:"<p>EllisLab today announces changes to our internal development processes, including dropping Subversion in favor of <a href="http://mercurial.selenic.com/">Mercurial</a> and adopting <a href="http://assembla.com/">Assembla</a> as our agile software development management tool.&nbsp; Along with these changes, CodeIgniter 2.0 pre-release code is in development, and is now hosted at the Mercurial-focused social coding site <a href="http://bitbucket.org/">BitBucket</a>.</p>
+
+<p>Read the full details at <a href="http://codeigniter.com/news/ellislab_moves_to_mercurial_assembla_bitbucket_codeigniter_2.0_baking/">CodeIgniter.com</a>.
+</p>";}i:13;a:9:{s:5:"title";s:29:"EECI2010 Full Ticket Giveaway";s:4:"link";s:69:"http://expressionengine.com/blog/entry/eeci2010_full_ticket_giveaway/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:69:"http://expressionengine.com/blog/entry/eeci2010_full_ticket_giveaway/";s:11:"description";s:2500:"<p>The <a href="http://eeci2010.com">ExpressionEngine and CodeIgniter Conference</a> (EECI2010) in May is <em>the</em> place to be.&nbsp; EllisLab will be there in full force to join the community for the EE and CI event of the year. If you haven&#8217;t started preparing, now is definitely the time to start.&nbsp; We want you to join the fun, so we&#8217;re giving away a full conference ticket to 2010&#8217;s premiere event.</p>
+
+<p>That&#8217;s right, we&#8217;re giving away a ticket and entering to win is easy.&nbsp; What does the full conference ticket include?</p>
+
+<blockquote><p>These tickets grant access to all presentations at the EECI2010 US conference and any Monday MasterClasses of your choice as well as the Monday Night &#8220;Welcome Drink&#8221; and the Tuesday &#8220;EECI2010 PartyEE Night&#8221;.</p></blockquote>
+
+<p><strong>How to enter</strong></p>
+
+<p>To enter to win the full conference ticket to EECI2010, just Tweet your favorite thing about either ExpressionEngine or CodeIgniter, including the full name of the product, the <em>#eecifree</em> hash, and the bit.ly link to this blog post (http://bit.ly/cEAhqM).&nbsp; Example:</p>
+
+<blockquote><p>ExpressionEngine rocks because it doesn&#8217;t mess with my HTML #eecifree http://bit.ly/cEAhqM</p></blockquote>
+
+<p>Additionally, for your entry to qualify, you <em>must follow @ellislab</em> on Twitter.</p>
+
+<p><strong>When can I enter?</strong></p>
+
+<p>The contest opens immediately and will remain open until Monday March 8 at midnight Pacific time.</p>
+
+<p><strong>But I already paid for a registration!</strong></p>
+
+<p>Don&#8217;t worry, you should still enter.&nbsp; If you win the prize and have already paid for an EECI2010 registration, EllisLab will reimburse you in full after confirmation of registration and payment.&nbsp; If you purchased regular tickets, we will upgrade the ticket for you to a full conference ticket and reimburse you for your amount paid for the regular ticket.</p>
+
+<p><strong>How is the winner selected?</strong></p>
+
+<p>The winner will be selected at random from all entries.&nbsp; Multiple submissions do not increase your chances; your account can only enter once, so make your Tweet memorable!</p>
+
+<p>We will announce the winner of this contest at the <a href="http://expressionengine.com/blog/entry/eeci2010_starts_in_austin/">EECI2010 SXSW preParty</a> on the 15th.&nbsp; You do not need to be present to win, but if you are, we&#8217;ll have something extra for you!
+</p>";s:4:"guid";s:84:"http://expressionengine.com/blog/entry/eeci2010_full_ticket_giveaway/#When:20:27:59Z";s:7:"pubdate";s:29:"Thu, 04 Mar 2010 20:27:59 GMT";s:7:"summary";s:2500:"<p>The <a href="http://eeci2010.com">ExpressionEngine and CodeIgniter Conference</a> (EECI2010) in May is <em>the</em> place to be.&nbsp; EllisLab will be there in full force to join the community for the EE and CI event of the year. If you haven&#8217;t started preparing, now is definitely the time to start.&nbsp; We want you to join the fun, so we&#8217;re giving away a full conference ticket to 2010&#8217;s premiere event.</p>
+
+<p>That&#8217;s right, we&#8217;re giving away a ticket and entering to win is easy.&nbsp; What does the full conference ticket include?</p>
+
+<blockquote><p>These tickets grant access to all presentations at the EECI2010 US conference and any Monday MasterClasses of your choice as well as the Monday Night &#8220;Welcome Drink&#8221; and the Tuesday &#8220;EECI2010 PartyEE Night&#8221;.</p></blockquote>
+
+<p><strong>How to enter</strong></p>
+
+<p>To enter to win the full conference ticket to EECI2010, just Tweet your favorite thing about either ExpressionEngine or CodeIgniter, including the full name of the product, the <em>#eecifree</em> hash, and the bit.ly link to this blog post (http://bit.ly/cEAhqM).&nbsp; Example:</p>
+
+<blockquote><p>ExpressionEngine rocks because it doesn&#8217;t mess with my HTML #eecifree http://bit.ly/cEAhqM</p></blockquote>
+
+<p>Additionally, for your entry to qualify, you <em>must follow @ellislab</em> on Twitter.</p>
+
+<p><strong>When can I enter?</strong></p>
+
+<p>The contest opens immediately and will remain open until Monday March 8 at midnight Pacific time.</p>
+
+<p><strong>But I already paid for a registration!</strong></p>
+
+<p>Don&#8217;t worry, you should still enter.&nbsp; If you win the prize and have already paid for an EECI2010 registration, EllisLab will reimburse you in full after confirmation of registration and payment.&nbsp; If you purchased regular tickets, we will upgrade the ticket for you to a full conference ticket and reimburse you for your amount paid for the regular ticket.</p>
+
+<p><strong>How is the winner selected?</strong></p>
+
+<p>The winner will be selected at random from all entries.&nbsp; Multiple submissions do not increase your chances; your account can only enter once, so make your Tweet memorable!</p>
+
+<p>We will announce the winner of this contest at the <a href="http://expressionengine.com/blog/entry/eeci2010_starts_in_austin/">EECI2010 SXSW preParty</a> on the 15th.&nbsp; You do not need to be present to win, but if you are, we&#8217;ll have something extra for you!
+</p>";}i:14;a:9:{s:5:"title";s:28:"SXSW UserVoice Events Chosen";s:4:"link";s:68:"http://expressionengine.com/blog/entry/sxsw_uservoice_events_chosen/";s:2:"dc";a:1:{s:7:"creator";s:11:"Derek Jones";}s:8:"category";s:4:"News";s:8:"comments";s:68:"http://expressionengine.com/blog/entry/sxsw_uservoice_events_chosen/";s:11:"description";s:2321:"<p>Our UserVoice selected events for SXSW 2010 have been chosen.&nbsp; You, the community, have come up with some interesting topics, and we couldn&#8217;t be happier that we put this part of our SXSW agenda in your hands!&nbsp; Sign up now, as we will still be limiting these to small groups to maximize one on one interaction.</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146728/">Saturday, March 13, 10 - 11am Distributed development: how do you guys do it?!</a><br />
+The primary topic will be that of working with a distributed team.&nbsp; EllisLab has team members in European countries, and all throughout North America.&nbsp; How do we work together?&nbsp; We’ll talk about technical, logistical, and human challenges of working tightly in this environment.&nbsp; If you have a distributed team and either need help or would like to help others from your experience, this is the group for you!</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146731/">Saturday, March 13, 4 - 5pm Module building from experts, the EllisLab team</a><br />
+As described from UserVoice: &#8220;The EE team talks about extending EE 2 with a walk through of a module with a Q&amp;A from attendees.&#8221;&nbsp; We’ll go a step further and talk about ExpressionEngine 2.0’s new add-on types, on choosing what type of add-on to build a particular feature with, as well as the keys to successfully distributing and marketing an add-on to the ExpressionEngine community (both free and commercial).</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146732/">Sunday, March 14, 2 - 3pm CodeIgniter Web Apps with ExpressionEngine 2.0</a><br />
+As suggested from UserVoice: &#8220;Before EE2.0 was released developers were getting very excited about EE2.0 being developed with CodeIgniter…Developers from both EE and CI camps were told of “dropping in” EE into a CodeIgniter build and harnessing the power of EE within a CI application. This discussion would be an overview of how CI works inside EE and how to extend it.&#8221;</p>
+
+<p>At all three discussions, we&#8217;ll make sure that we have time for general discussion on various things you may wish to talk about that are not necessarily on topic for that group event.&nbsp; Thanks to everyone for the suggestions and votes!
+</p>";s:4:"guid";s:83:"http://expressionengine.com/blog/entry/sxsw_uservoice_events_chosen/#When:15:00:42Z";s:7:"pubdate";s:29:"Wed, 03 Mar 2010 15:00:42 GMT";s:7:"summary";s:2321:"<p>Our UserVoice selected events for SXSW 2010 have been chosen.&nbsp; You, the community, have come up with some interesting topics, and we couldn&#8217;t be happier that we put this part of our SXSW agenda in your hands!&nbsp; Sign up now, as we will still be limiting these to small groups to maximize one on one interaction.</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146728/">Saturday, March 13, 10 - 11am Distributed development: how do you guys do it?!</a><br />
+The primary topic will be that of working with a distributed team.&nbsp; EllisLab has team members in European countries, and all throughout North America.&nbsp; How do we work together?&nbsp; We’ll talk about technical, logistical, and human challenges of working tightly in this environment.&nbsp; If you have a distributed team and either need help or would like to help others from your experience, this is the group for you!</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146731/">Saturday, March 13, 4 - 5pm Module building from experts, the EllisLab team</a><br />
+As described from UserVoice: &#8220;The EE team talks about extending EE 2 with a walk through of a module with a Q&amp;A from attendees.&#8221;&nbsp; We’ll go a step further and talk about ExpressionEngine 2.0’s new add-on types, on choosing what type of add-on to build a particular feature with, as well as the keys to successfully distributing and marketing an add-on to the ExpressionEngine community (both free and commercial).</p>
+
+<p><a href="http://expressionengine.com/forums/viewthread/146732/">Sunday, March 14, 2 - 3pm CodeIgniter Web Apps with ExpressionEngine 2.0</a><br />
+As suggested from UserVoice: &#8220;Before EE2.0 was released developers were getting very excited about EE2.0 being developed with CodeIgniter…Developers from both EE and CI camps were told of “dropping in” EE into a CodeIgniter build and harnessing the power of EE within a CI application. This discussion would be an overview of how CI works inside EE and how to extend it.&#8221;</p>
+
+<p>At all three discussions, we&#8217;ll make sure that we have time for general discussion on various things you may wish to talk about that are not necessarily on topic for that group event.&nbsp; Thanks to everyone for the suggestions and votes!
+</p>";}}s:7:"channel";a:9:{s:5:"title";s:7:"EE Blog";s:4:"link";s:33:"http://expressionengine.com/blog/";s:11:"description";s:21:"ExpressionEngine Blog";s:9:"copyright";s:31:"Copyright 2010 ExpressionEngine";s:4:"docs";s:41:"http://www.rssboard.org/rss-specification";s:9:"generator";s:52:"ExpressionEngine v1.6.9 http://expressionengine.com/";s:8:"language";s:2:"en";s:13:"lastbuilddate";s:29:"Fri, 18 Jun 2010 21:35:42 GMT";s:7:"tagline";s:21:"ExpressionEngine Blog";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"utf-8";s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:13:"current_field";s:0:"";s:17:"current_namespace";b:0;s:4:"etag";b:0;s:5:"ERROR";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:15:"source_encoding";s:5:"UTF-8";s:13:"last_modified";s:31:"Fri, 18 Jun 2010 21:35:42 GMT
+";}
