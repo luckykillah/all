@@ -1,0 +1,9 @@
+/* First off, fuck IE */
+
+#navigation li ul  {position: absolute; left: -12px; visibility: hidden; margin: 10px 0 0 0; padding: 20px; background: #000; border: none; z-index: 1000; }
+*+html navigation {width: 640px; display: block; height: 50px;} /* IE7 */
+* html navigation {width: 640px; display: block; height: 50px;} /* IE6 */
+*+html #navigation li {float: left;} /* IE7 */
+* html #navigation li {float: left;} /* IE6 */
+*+html #content {clear: both;} /* IE7 */
+* html #content {clear: both;} /* IE6 */
