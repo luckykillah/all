@@ -1,0 +1,6 @@
+2009-11-02 08:09:22 u55227437 3oUd9Q-1N4wew2dHM-0002eb |< REMOTE=82.178.1.112 SCRIPT=/wp-admin/user-new.php -- /usr/sbin/sendmail -t -i
+2009-11-02 08:09:22 u55227437 3oUd9Q-1N4wew2dHM-0002eb <= S=wordpress@andrewswimsmims.com SZ=890 D=0 SID=301015805
+2009-11-02 08:09:24 u55227437 3oUd9Q-1N4wew2dHM-0002eb => christina.lutters@gmail.com msmtp.perfora.net[172.19.143.3] 250 Message 0MeyVl-1MpjCM12QD-00P6Wz accepted by mrus1.perfora.net
+2009-11-03 13:20:40 u55227437 3oUd9Q-1N5Nzk02T3-0003mE |< REMOTE=82.178.1.112 SCRIPT=/wp-admin/install.php -- /usr/sbin/sendmail -t -i
+2009-11-03 13:20:40 u55227437 3oUd9Q-1N5Nzk02T3-0003mE <= S=wordpress@christinalutters.com SZ=1052 D=0 SID=301015805
+2009-11-03 13:20:42 u55227437 3oUd9Q-1N5Nzk02T3-0003mE => info@christinalutters.com msmtp.perfora.net[172.19.143.3] 250 Message 0MFe8r-1MtVU53YNp-00FAEK accepted by mrus1.perfora.net

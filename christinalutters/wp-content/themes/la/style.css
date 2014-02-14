@@ -1,0 +1,177 @@
+/*
+THEME NAME: La
+THEME URI:christinalutters.com
+DESCRIPTION: La start
+VERSION:1.0
+AUTHOR:Christina Lutters
+
+/*=========================================================================
+	Reset & HTML5 Elements  
+=========================================================================== */
+a, abbr, acronym, address, applet, article, aside, audio, b, blockquote, big, body, center, canvas, caption, cite, code, command, datalist, dd, del, details, dfn, dl, div, dt, em, embed, fieldset, figcaption, figure, font, footer, form,  h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd,  keygen, label, legend, li, meter, nav, object, ol, output, p, pre, progress, q,  s, samp, section, small, span, source, strike, strong, sub, sup, table, tbody, tfoot, thead, th, tr, tdvideo, tt, u, ul, var{
+    background: transparent; border: 0 none; font-size: 100%; margin: 0; padding: 0; outline: 0; vertical-align: baseline; }
+article, aside, audio, canvas, command, datalist, details, embed, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video{ display: block; }
+mark, rp, rt, ruby, summary, time{ display: inline }
+
+/*=========================================================================
+	Fonts 
+=========================================================================== */
+
+
+/*=========================================================================
+	Typography  
+=========================================================================== */
+body{ font: normal normal 18px/26px 'Hoefler Text', Tahoma, Arial, Helvetica, Verdana, sans-serif; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; margin: 1em 0 .5em; }
+
+h1			{ font-size: 4em; line-height: 1em; }
+h2			{ font-size: 3em; line-height: 1em; font-style: italic; }
+h3			{ font: 1.3em 'Myriad Pro'; line-height: 1em; text-transform: uppercase; letter-spacing: .1em; font-weight: bold; }
+h4, h5, h6	{ font-size: 1.8em; font-style: italic; }
+
+/* 	Text elements
+-------------------------------------------------------------------------- */
+					
+p           { font-size: 1.1em; margin: 0 0 .5em 0; }
+
+/* Links */
+a           { color: #333; text-decoration: none; background: #efefef; padding: 2px 2px 0 2px;}
+a:focus, 
+a:hover     { background: yellow; }
+a.active	{  }
+h1 a, h2 a, 
+h3 a, h4 a, 
+h5 a, h6 a,	
+nav a		{ text-decoration: none; }
+a[target="_blank"]:after{content: url('library/images/exit-link.gif'); }
+
+blockquote  { }
+strong      { font-weight: bold; }
+em,dfn      { font-style: italic; }
+dfn         { font-weight: bold; }
+
+abbr,
+acronym     { border-bottom: 1px dotted #666; cursor: help; }
+address     { }
+
+pre         { white-space: pre; }
+pre,code,tt { font: 1em 'andale mono', 'lucida console', monospace; }
+
+
+/* 	Lists
+-------------------------------------------------------------------------- */
+
+ul          { list-style-type: disc; }
+ol          { list-style-type: decimal; }
+
+li ul,
+li ol       { }
+ul, ol      { }
+
+dl          {  }
+dl dt       { font-weight: bold; }
+dd          { }
+
+
+/* 	Tables
+-------------------------------------------------------------------------- */
+
+table         { width:100%; border: 1px solid #ccc; }
+th            { font-weight: bold; }
+thead th      { }
+th,td,caption { border: 1px solid #ccc; padding: .4em; }
+tr.even td    { }
+tfoot         { }
+caption       { }
+
+/* 	Forms
+-------------------------------------------------------------------------- */
+form 		  { width: 90%; background: #efefef; padding: 11px 0; }
+form div	  { margin: 11px; }
+form div:after{ visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+input,
+textarea	  { border: 1px solid #ccc; padding: .4em; width: 90%; font: 1.2em 'Palatino', Tahoma, Arial, Helvetica, Verdana, sans-serif; }
+label		  { vertical-align:top; display: block; } 
+
+input[type=radio],
+input[type=checkbox],
+input[type=submit]
+			  { width: auto; }
+
+input[type=submit]:hover { cursor: pointer; }
+
+
+
+/* 	Misc
+-------------------------------------------------------------------------- */
+
+.small      { font-size: .8em; }
+.large      { font-size: 1.2em; }
+.hide       { display: none; }
+
+.quiet      { color: #666; }
+.loud       { color: #000; }
+.highlight  { background:#ff0; }
+.added      { background:#060; color: #fff; }
+.removed    { background:#900; color: #fff; }
+
+.caps     	{ text-transform: uppercase; font-size: .9em; letter-spacing:1px;}
+.amp		{ font-family: Baskerville,"Palatino Linotype", Palatino, serif; font-style: italic;}
+.num		{ font: .8em Georgia;}
+
+/*=========================================================================
+	Structure & Containers
+=========================================================================== */
+
+/* Footer positioning */
+html,
+body 		{ height:100%;/*background: url('../images/grid20x20.png') 2px -1px; */ }
+#wrapper	{ min-height:100%; position:relative; }
+.LBF	 	{ padding-bottom: 100px; }  /* LBF = last before footer: Last item before footer must have padding the height of the footer plus a bit of extra space */ 
+footer 		{ position:absolute; bottom:0; width:100%; height: 60px; }  /* Height of the footer */
+
+/* General Structure */
+header	{ float: left; width: 100%; }
+article	{ float: left; margin: 11px 0; }
+aside	{ float: left; margin: 11px 0; }
+div		{ float: left; max-width: 460px; margin: 10px; }
+
+/* Helpers */
+.wrap		{ width: 960px; margin: 0 auto; }
+.inner 		{ margin: 10px; }
+.first      { margin-left:0; padding-left:0; }
+.last       { margin-right:0; padding-right:0; }
+.top        { margin-top:0; padding-top:0; }
+.bottom     { margin-bottom:0; padding-bottom:0; }
+.left		{ float: left; }
+.right		{ float: right; }
+
+/* Clearfixin' */
+br.clear 					{ clear:both; display:block; height:1px; margin:-1px 0 0 0 }
+.wrap:after, section:after, 
+article:after, aside:after,
+.clearfix:after 			{ visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+* html #wrap, * html section, * html article, * html aside,* html .clearfix	{ zoom: 1; } /* IE6 */
+*:first-child+html section, *:first-child+html article, *:first-child+html aside,*:first-child+html .clearfix{ zoom: 1; } /* IE7 */
+
+/* Images */
+img 	{ display:block; }
+a img	{ border: 0; outline 0; }
+
+/*=========================================================================
+	Navigation
+=========================================================================== */
+
+
+/*=========================================================================
+	Section
+=========================================================================== */
+section{}
+article{}
+
+/*=========================================================================
+	Footer
+=========================================================================== */
+footer#footer{ background: black; color: white; padding: 11px 0}
+footer#footer a{ color: white; }
