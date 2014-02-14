@@ -1,0 +1,73 @@
+/*
+Theme Name: Muscat Swimming
+Theme URI: http://christinalutters.com
+Description: The custom underwater theme for Muscat Swimming. (Based on the famous <a href="http://elliotjaystocks.com/starkers/">Starkers</a> by <a href="http://elliotjaystocks.com">Elliot Jay Stocks</a> which was based on the famous <a href="http://binarybonsai.com/kubrick/">Kubrick</a> by <a href="http://binarybonsai.com/">Elliot Jay Stocks</a>)
+Version: 1.0
+Author: Christina Lutters
+Author URI: http://christinalutters.com
+*/
+
+@import "style/css/reset.css";
+@import "style/css/typography.css";
+/* @import "style/css/layout.css";*/
+
+
+/* LAYOUT */
+/* ----------------------------------------- */
+
+.aligncenter { display:block; margin:0 auto }
+.alignleft { float:left }
+.alignright { float:right }
+.wp-caption { border:1px solid #666; text-align:center; background:#ccc; padding:10px; margin:10px }
+
+div, ul, li { position:relative } 
+br.clear { clear:both; display:block; height:1px; margin:-1px 0 0 0 } /* Use this br class to clear your floated columns */
+
+body{background: #012e4d url('http://www.muscatswimming.com/wp-content/themes/masa/style/images/BG.jpg') repeat-x left top;}
+
+#container{
+	width: 960px;
+	margin: 0 auto;
+	}
+
+#container h1{
+	background: url('http://www.muscatswimming.com/wp-content/themes/masa/style/images/header.jpg') no-repeat;
+	width: 960px;
+	height: 200px;
+	margin-bottom: 20px;
+	}
+
+#container h1 a{display: block; padding-top: 10px}
+	
+#content{
+	width: 580px;
+	padding: 5px;
+	margin: 0 10px 40px 0;
+	background: url('http://www.muscatswimming.com/wp-content/themes/masa/style/images/padding.jpg');
+	float:left;
+	}
+body.archive #content h2{color: white; margin: 0; text-align: center;}
+
+#content .post{
+	background: white;
+	padding: 20px;
+	}
+p.prevnext{margin: 0;}	
+
+#sidebar{
+	width: 320px;
+	margin-left: 10px;
+	padding: 5px 5px 0;
+	background: url('http://www.muscatswimming.com/wp-content/themes/masa/style/images/padding.jpg');
+	float:left;
+	}
+	
+.sidebar-box{
+	background: white;
+	padding: 20px;
+	margin-bottom: 5px;
+	}
+
+#sidebar h2{margin-bottom: -8px;}
+#sidebar p{margin: 18px 0 0 0;}
+h2, h3{font-size: 2em; color: #324B7E}

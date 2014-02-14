@@ -1,0 +1,322 @@
+/*
+Theme Name: AMM
+Theme URI: http://andrewswimsmims.com
+Author: Christina Lutters	
+Author URI: http://christinalutters.com/
+
+*/ 
+
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family:Georgia, Arial, sans-serif;
+	font-size:10pt;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	color:#bbb;
+	list-style: none;
+	}
+
+body{
+	width: 900px;
+	background: #151633 ; /*#930016 RED, fae15b YELLOW */
+	margin: 0 auto 0 auto;
+	text-align: center;
+	}
+
+#wrapper{ 
+	width: 800px;
+	}
+#container{
+	width: 500px;
+	text-align: left;
+	}	
+/*-----------------TYPOGRAPHY----------------*/
+
+
+h2, h2 a{ 
+	font-weight: bold;
+	font-size: 18pt;
+	float: left;
+	clear: both;
+	margin: 10px 0;
+	color: #fae15b;
+	}
+	
+	h2 a:hover{ 
+		font-weight: bold;
+		font-size: 18pt;
+		float: left;
+		clear: both;
+		margin: 10px 0;
+		color: ##930016;
+		}
+		
+h3{
+	color: #930016;
+	font-size: 14pt;
+	font-weight: bold;
+	}
+	
+h4{
+	color: #930016;
+	font-size: 12pt;
+	font-weight: bold;
+	}
+	
+p{
+	margin: 20px 0 0 0;
+	line-height: 1.4em;
+	clear: both;
+	}
+
+a{	
+	color:#930016;
+	}
+a:hover{
+	color: #fae15b;
+	}
+a:visited{
+	color: #930016;
+	}
+em{
+	font-style: italic;
+	}
+
+
+small {
+	font-size: 0.9em;
+	line-height: 1.5em;
+	color: #777;
+	clear: both;
+	}
+
+
+#header {
+	margin: 0 0 0 1px;
+	padding: 0;
+	width: 800px;
+	height:225px;
+	background: url(http://andrewswimsmims.com/wp-content/themes/ammswims/images/blogheader.jpg) no-repeat;
+	border: white solid;
+	}
+
+
+.post, .entry {
+	margin: 0px;
+	text-align: justify;
+	width: 500px;
+	}
+		.post hr {
+			display: block;
+			}
+
+.postmetadata, .clear {
+	clear: both;
+	}
+
+.postmetadata{ margin: 20px 0 40px 0;}
+
+.widecolumn {
+	line-height: 1.6em;
+	padding: 10px 0 20px 0;
+	margin: 5px 0 0 150px;
+	width: 450px;	
+	}
+
+.nocomments, .postmetadata, blockquote, strike {
+	color: #777;
+	}
+
+code {
+	font: 1.1em 'Courier New', Courier, Fixed;
+	}
+
+
+
+/* ----------------Begin Form Elements----------------- */
+
+
+.entry form { /* This is mainly for password protected posts, makes them look better. */
+	text-align:center;
+	}
+
+select {
+	width: 130px;
+	}
+
+#commentform input {
+	width: 170px;
+	padding: 2px;
+	margin: 5px 5px 1px 0;
+	}
+
+#commentform {
+	margin: 5px 10px 0 0;
+	}
+#commentform textarea {
+	width: 100%;
+	padding: 2px;
+	}
+#respond:after {
+		content: "."; 
+	    display: block; 
+	    height: 0; 
+	    clear: both; 
+	    visibility: hidden;
+	}
+#commentform #submit {
+	margin: 0 0 5px auto;
+	float: right;
+	}
+/* End Form Elements */
+
+
+
+/* --------------Begin Comments-------------------*/
+.alt {
+	margin: 0;
+	padding: 10px;
+	}
+
+.commentlist {
+	padding: 0;
+	text-align: justify;
+	}
+
+.commentlist li {
+	margin: 15px 0 10px;
+	padding: 5px 5px 10px 10px;
+	list-style: none;
+
+	}
+.commentlist li ul li { 
+	margin-right: -5px;
+	margin-left: 10px;
+}
+
+.commentlist p {
+	margin: 10px 5px 10px 0;
+}
+.children { padding: 0; }
+
+#commentform p {
+	margin: 5px 0;
+	}
+
+.nocomments {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	}
+
+.commentmetadata {
+	margin: 0;
+	display: block;
+	}
+
+
+
+.navigation {
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	}
+		.navigation .alignleft{
+			float: left;
+			}
+		.navigation .alignright{
+			float: right;
+			}
+	
+	
+.commentlist li, #commentform input, #commentform textarea {
+	font-size: 0.9em ;
+	}
+.commentlist li ul li {
+	font-size: 1em;
+}
+
+.commentlist li {
+	font-weight: bold;
+}
+
+.commentlist li .avatar { 
+	float: right;
+	border: 1px solid #eee;
+	padding: 2px;
+	background: #fff;
+	}
+
+.commentlist cite, .commentlist cite a {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.1em;
+	}
+
+.commentlist p {
+	font-weight: normal;
+	line-height: 1.5em;
+	text-transform: none;
+	}
+
+#commentform p {
+	}
+
+.commentmetadata {
+	font-weight: normal;
+	}
+
+
+
+
+/* ------------------ SIDEBAR/ NAVIGATION------------------*/
+
+#nav{
+	position: fixed;
+	right: 0px;
+	top: 100px;
+	height: 400px;
+	width: 100px;
+	background: url(http://andrewswimsmims.com/wp-content/themes/ammswims/images/nav.png) no-repeat;
+	}
+	
+		#nav ul{padding-top: 50px; list-style: none;}
+		#nav li{
+			height:50px;
+			padding: 0px 0px 0 0px;
+			margin-left: 35px;
+			line-height: 1em;
+			}
+		#nav li a{
+			height: 50px;
+			width: 50px;
+			font-weight: bold;
+			font-size: 10pt;
+			color: black;
+			}
+		
+		#nav li a:hover{color:#930016;}
+		
+		#nav #searchform {
+			margin-left: -35px;
+			padding: 0;
+			width:100px;
+			text-align: right;
+			}
+
+		#nav #searchform #s {
+			width: 95px;
+			padding: 0;
+			background: #fae15b;
+			}
+		#nav #login a{
+			color: black;
+			font: 8pt normal;
+			margin: 0px;
+			}
+

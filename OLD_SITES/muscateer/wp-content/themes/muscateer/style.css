@@ -1,0 +1,1070 @@
+/*   
+Theme Name:The Muscateer
+Theme URI:http:www.muscateer.com
+Description: Custom Wordpress theme for the Muscateer
+Author: Christina Lutters
+Author URI:
+Version:1.0
+
+*/
+
+/*
+-----------------------------------------
+FONTS by Font Squirrel (http://www.fontsquirrel.com)
+----------------------------------------- 
+*/
+
+		@font-face {
+			font-family: 'Muscateer';
+			src: url('http://www.muscateer.com/wp-content/themes/muscateer/library/fonts/Muscateer.eot');
+			src: local('DIN 1451 fette Breitschrift 1936'), local('DIN1451fetteBreitschrift1936-Regular'), url('http://www.muscateer.com/wp-content/themes/muscateer/library/fonts/Muscateer.woff') format('woff'), url('http://www.muscateer.com/wp-content/themes/muscateer/library/fonts/Muscateer.ttf') format('truetype');
+		}
+
+/* "Muscateer" is a custom version of Peter Weigel's great font, "DIN 1451 Fette Breitschrift." (http://www.peter-wiegel.de/Fonts.html) */
+
+/*
+-----------------------------------------
+COLORS
+  main yellow: #ffc624
+  A+C  orange: #ef7e00
+  C    salmon: #ef7057
+  N turquoise: #00ada6
+  F+D   light: #eef9b6
+  S+E   green: b2d500
+----------------------------------------- 
+*/
+
+
+/*
+-----------------------------------------
+RESET -- Reset default browser CSS. Based on Eric Meyer's reset
+         v1.0 | 20080212
+----------------------------------------- 
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+	line-height: 1.4;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+:focus {
+	outline: 0;
+}
+
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+a img { border: none; }
+
+/*
+-----------------------------------------
+TYPOGRAPHY -- set up default typography, based on Blueprint
+----------------------------------------- 
+*/
+
+
+body { 
+  font-size: 13px;
+  color: #222; 
+  background: #fff;
+  font-family: Garamond, Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif;
+}
+
+
+/* Headings
+-------------------------------------------------------------- */
+
+h1,h2,h3,h4,h5,h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a, .menu{ font-family: 'Muscateer', Tahoma, Arial; font-weight: normal; color: #111; text-transform: uppercase;}
+
+h1 { font-size: 2em; line-height: 1; margin-bottom: 0.5em; }
+h2 { font-size: 1.5em; margin-bottom: 0.75em; }
+h3 { font-size: 1.5em; line-height: 1; margin-bottom: 1em; }
+h4 { font-size: 1.2em; line-height: 1.25; margin-bottom: 1em; }
+h5 { font-size: 1em; margin-bottom: .5em; }
+h6 { font-size: 1em; font-weight: bold; }
+
+h1 img, h2 img, h3 img, 
+h4 img, h5 img, h6 img {
+  margin: 0;
+}
+
+/*body.sportsexercise-calendar h1{color: #ef7057;}
+body.arts-culture-calendar h1{color: #ef7e00;}
+body.community-calendar h1{color: #00ada6;}
+body.OTHER-calendar h1{color: #00ada6;}
+body.OTHER-calendar h1{color: #b2d500;}*/
+
+
+/* Text elements
+-------------------------------------------------------------- */
+
+p           { margin: 0 0 1.5em; font-size: 14px;}
+p img.left  { float: left; margin: 1.5em 1.5em 1.5em 0; padding: 0; }
+p img.right { float: right; margin: 1.5em 0 1.5em 1.5em; }
+
+a           { color: #333; text-decoration: none;} 
+a:hover     { color:  #000; border-bottom: 1px dashed #333 ; border-top: 1px dashed #333;}
+a:visited	{}
+
+blockquote  { margin: 1.5em; color: #666; font-style: italic; }
+strong      { font-weight: bold; }
+em,dfn      { font-style: italic; }
+dfn         { font-weight: bold; }
+sup, sub    { line-height: 0; }
+
+abbr, 
+acronym     { border-bottom: 1px dotted #666; }
+address     { margin: 0 0 1.5em; font-style: italic; }
+del         { color:#666; }
+
+pre 		{ margin: 1.5em 0; white-space: pre; }
+pre,code,tt { font: 1em 'andale mono', 'lucida console', monospace; line-height: 1.5; }
+
+
+/* Lists
+-------------------------------------------------------------- */
+
+li ul, 
+li ol       { margin:0 0 1.5em 0; }
+ul, ol      { margin: 0 0 1.5em 0;  }
+
+ul          { list-style-type: none; }
+ol          { list-style-type: decimal; padding-left: 20px;}
+
+dl          { margin: 0 0 1.5em 0; }
+dl dt       { font-weight: bold; }
+dd          { margin-left: 1.5em;}
+
+
+/* Tables
+-------------------------------------------------------------- */
+
+table       { margin-bottom: 1.4em; width:100%; }
+th          { font-weight: bold; }
+thead th 		{ background: #c3d9ff; }
+th,td,caption { padding: .7em 1.25em}
+tr.even td  { background: #e5ecf9; }
+tfoot       { font-style: italic; }
+caption     { background: #eee; text-align: left;}
+
+
+
+/* Misc classes
+-------------------------------------------------------------- */
+
+small       { font: italic 1em Garamond, Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif; text-transform: lowercase;}
+.large      { font-size: 18px;}
+.hide       { display: none; }
+
+.quiet      { color: #666; }
+.loud       { color: #000; }
+.highlight  { background:#ff0; }
+.added      { background:#060; color: #fff; }
+.removed    { background:#900; color: #fff; }
+
+.first      { margin-left:0; padding-left:0; }
+.last       { margin-right:0; padding-right:0; }
+.top        { margin-top:0; padding-top:0; }
+.bottom     { margin-bottom:0; padding-bottom:0; }
+
+hr 	{background-color:#ccc; border:0; color:#ccc; height:1px; margin-bottom:22px;}
+
+.alert { background:red; color:white } /* 'alert' has a basic style, since it's useful to have it standing out for testing purposes.
+
+/*
+-----------------------------------------
+IMAGES -- default styles for images
+----------------------------------------- 
+*/
+
+.entry img {
+    margin: 0 0 18px 0;
+}
+.alignleft,
+img.alignleft {
+	float: left;
+    margin-right:20px;
+}
+.alignright,
+img.alignright {
+	display: block;
+	float: right;
+    margin-left:20px;
+}
+.aligncenter,
+img.aligncenter {
+	margin-left:auto;
+	margin-right:auto;
+	display: block;
+	clear: both;
+}
+.wp-caption {
+	text-align: center;
+	margin-bottom:18px;
+}
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+.wp-caption p.wp-caption-text {
+	margin: 0;
+	padding:5px;
+}
+.gallery img {
+    margin:0;
+}
+.wp-smiley { /* Prevent the smileys from breaking line-height */
+	max-height:12px;
+	margin:0 !important;
+}
+
+
+/*
+-----------------------------------------
+DEFAULT
+----------------------------------------- 
+*/
+html{height: 100%;}
+body{	
+	background: #ddd url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/2030-022610-bw.jpg') no-repeat fixed; 
+	background-position: 50% 0px;
+	height: 100%;
+	}
+#wrapper{
+	min-height: 70%; 
+	margin-bottom: 0px; 
+	position: relative;
+	}
+	
+br.clear { clear:both; display:block; height:1px; margin:-1px 0 0 0 }	
+.clearfix{clear: both;}
+
+/*
+-----------------------------------------
+HEADER
+----------------------------------------- 
+*/
+
+#header-block{
+    height: 100px;
+    z-index: 1000;
+	}
+	
+#header {
+	background: white; 
+	border-bottom: 3px solid #333;
+    -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+    padding:0;
+	height: 65px;
+	}
+
+.menu{	 
+	padding: 0 0px; 
+	text-align: center;  
+	font-size: 13px; 
+    margin: 0 auto;
+    width: 990px;
+    z-index: 500;
+	}
+
+ul.menu .menulink {display: block; width:123.34px; height: 45px; margin: 1px 0}
+ul.menu .menulink small{line-height: .9em;}
+ul.menu .menulink:hover, ul.menu .menuhover { 
+	border-top: 1px dashed #ccc;
+	border-bottom: 1px dashed #ccc;
+	margin: 0;
+	}
+ul.menu li {position:relative; float:left; padding: 10px 0 0 0; }
+ul.menu li a:hover{border: none; color: black}
+ul.menu ul { /*don't add color or more border or padding to this or it won't disappear completely */
+	position:absolute; 
+	top:35px; 
+	left:-30px; 
+	display:none; 
+	list-style:none; 
+	margin: 20px 0 0 0 ;  
+	border-top: 1px #ddd solid;     
+	-webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	}
+ul.menu ul li {
+	position:relative; 
+	margin:0; 
+	width: 180px; 
+	background: #eef9b6; 
+	padding: 0 6px 6px 6px;
+	}
+
+
+body.arts-culture ul.menu .menulink:hover,
+body.category-arts-culture ul.menu .menulink:hover,
+body.category-arts-culture-venue ul.menu .menulink:hover,{
+border-top: 1px dashed #ef7e00; border-bottom: 1px dashed #ef7e00;
+}
+body.calendar ul.menu .menulink:hover, 
+body.category-community ul.menu .menulink:hover,
+body.category-community-venue ul.menu .menulink:hover{
+border-top: 1px dashed #ef7057; border-bottom: 1px dashed #ef7057;
+}
+body.food-drink ul.menu .menulink:hover, ul.menu .menuhover,
+body.category-food-drink ul.menu .menulink:hover, ul.menu .menuhover,
+body.category-food-drink-venue ul.menu .menulink:hover{
+border-top: 1px dashed #b2d500; border-bottom: 1px dashed #b2d500;
+}
+body.sports-exercise ul.menu .menulink:hover,
+body.category-sports-exercise ul.menu .menulink:hover
+body.category-sports-exercise-venue ul.menu .menulink:hover{
+border-top: 1px dashed #b2d500; border-bottom: 1px dashed #b2d500;
+}
+body.nightlife ul.menu .menulink:hover,
+body.category-nightlife ul.menu .menulink:hover,
+body.category-nightlife-venue ul.menu .menulink:hove{
+border-top: 1px dashed #00ada6; border-bottom: 1px dashed #00ada6;
+}
+
+body.arts-culture ul.menu ul li,
+body.category-arts-culture ul.menu ul li
+body.category-arts-culture ul.menu ul li{background: #ef7e00;}
+
+body.community ul.menu ul li,
+body.category-community ul.menu ul li,
+body.category-community-venue ul.menu ul li{background: #ef7057;}
+
+body.food-drink ul.menu ul li,
+body.category-food-drink ul.menu ul li,
+body.category-food-drink-venue ul.menu ul li{background: #ffc624;}
+
+body.sports-exercise ul.menu ul li,
+body.category-sports-exercise ul.menu ul li,
+body.category-sports-exercise-venue ul.menu ul li{background: #b2d500;}
+
+body.nightlife ul.menu ul li,
+body.category-nightlife ul.menu ul li,
+body.category-nightlife-venue ul.menu ul li{background: #00ada6;}
+
+
+ul.menu ul li a {
+	display:block; 
+	color: black; 
+	margin:1px 0;
+	}
+ul.menu ul li a:hover {
+	margin-top:0; 
+	margin-bottom:0; 
+	color:black; 
+	border-top: 1px dashed #ccc; 
+	border-bottom: 1px dashed #ccc; 
+	}
+
+#logo{ 
+	background:url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_3.png') no-repeat;
+	height: 100px;
+	width: 250px;
+	border: none;
+	display: inline;
+	float: left;
+	}
+
+body.category-arts-culture #logo,
+body.arts-culture #logo,
+body.category-arts-culture-venue #logo{
+	background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_5.png') no-repeat;}
+body.category-community #logo,
+body.community #logo,
+body.category-community-venue #logo{
+	background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_1.png') no-repeat;}
+body.category-food-drink #logo,
+body.food-drink #logo,
+body.category-food-drink-venue #logo{
+	background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_0.png') no-repeat;}
+body.category-sports-exercise #logo,
+body.sports-exercise #logo,
+body.category-sports-exercise-venue #logo{
+	background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_4.png') no-repeat;}
+body.category-nightlife #logo,
+body.nightlife #logo,
+body.category-nightlife-venue #logo{
+	background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/logo_beta/logo_2.png') no-repeat;}
+
+#logo span{display: none;}
+#logo li h1 a:hover{border: black;}
+.menu small{color: #666; }
+
+
+/*
+-----------------------------------------
+CONTENT
+----------------------------------------- 
+*/
+#content{z-index: 50; position: static;}
+#container, #container-small {
+    clear:both;
+    width: 990px;
+	margin: 0 auto;
+	position: relative;
+    padding: 10px 10px 20px 10px;
+    background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-70.png');
+    -webkit-box-shadow: rgba(0,0,0,0.5) 0px 3px 5px;
+	-moz-box-shadow: rgba(0,0,0,0.5) 0px 3px 5px;
+}
+body.page #container, body.page #container-small{margin-bottom: 40px;}
+#container-small{width:800px}
+/*body.category-uncategorized #container,
+body.venues #container,
+body.groups #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-yellow.png')}
+
+
+body.category-arts-culture #container,
+body.arts-culture #container,
+body.category-arts-culture-venue #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-orange.png')}
+
+body.category-community #container,
+body.community #container,
+body.category-community-venue #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-red.png')}
+
+body.category-food-drink #container,
+body.food-drink #container,
+body.category-food-drink-venue #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-light.png')}
+
+body.category-sports-exercise #container,
+body.sports-exercise #container,
+body.category-sports-exercise-venue #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-green.png')}
+
+body.category-nightlife #container,
+body.nightlife #container,
+body.category-nightlife-venue #container{
+background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-blue.png')} */
+
+body.all-events #container{background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/trans-70.png');}
+
+.entry{
+	background: white;
+	padding: 10px 0 10px 10px;
+	clear: both;
+	margin-bottom: 10px;
+	}
+
+ .entry h1{
+	display: block;
+	width: 500px; 
+	padding: 0 10px;
+	float: left;
+	}
+
+.post{margin-bottom: 20px;}
+
+.entry h1{background:#eef9b6;}
+body.category-uncategorized .entry h1{background:#ffc624;}
+body.category-arts-culture .entry h1,
+body.arts-culture .entry h1,
+body.arts-culture-venue .entry h1{background:#ef7e00;}
+body.category-community .entry h1,
+body.community .entry h1,
+body.community-venue .entry h1{background:#ef0757;}
+body.category-food-drink .entry h1,
+body.food-drink .entry h1,
+body.food-drink-venue .entry h1{background:#ffc624;}
+body.category-sports-exercise .entry h1,
+body.sports-exercise .entry h1,
+body.sports-exercise-venue .entry h1{background:#b2d500;}
+body.category-nightlife .entry h1,
+body.nightlife .entry h1,
+body.nightlife-venue .entry h1{background:#00ada6;}
+
+/*fix h1 tags within posts !!
+.entry h1{min-height: 200px; width: auto; background: transparent; margin: 0 0 18px 0; padding: 0; float: none;}*/
+
+#single-text{
+	float: left; 
+	width:500px; 
+	clear: both;
+	padding: 10px;
+	}
+	
+/*.entry{
+	height: 200px;
+	} */
+	
+#single-text p{padding: 10px 0; margin-bottom:0;}
+.post-meta{
+	padding: 10px;
+	padding: 10px 0 10px 10px;
+	margin-bottom: 10px;
+	float: right;
+	width: 310px;
+	border-left: dashed 1px #ccc;
+	}
+.post-meta .post-meta{border:0;}
+.post-meta li{padding-top: 10px; height:28.2px}	
+.post-meta-key{
+	font-family: 'Muscateer', Tahoma, Arial;
+	text-transform: uppercase;
+	color: #333;
+	width: 80px;
+	display: block;
+	float: left;
+	clear: both;
+	margin: 0 10px 10px 0;
+	}
+
+.post-categories {
+	float: right; 
+	clear: both; 
+	padding: 0 10px; 
+	width: 310px; 
+	border-left: dashed 1px #ccc;
+	}
+
+/*
+-----------------------------------------
+VENUE/GROUP PAGES
+----------------------------------------- 
+*/
+#groups-page-title{float: left; }
+.groupjump li{float: left; padding: 0 2px; margin-top: 6px;}
+
+.single_content .venue_info{
+	-webkit-box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+	-moz-box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+	}
+
+.venue_info{
+	width: 980px; 
+	background: white; 
+	float: left;
+	position: relative;
+	padding: 10px 0 10px 10px;
+	margin-bottom: 10px;
+	}
+.venue_info h1{ 
+	display: block;
+	width: 550px;
+	float: left;
+	padding: 10px 0;
+	}
+.venue_info h4{ 
+	padding: 0;
+	margin: 0;
+	}
+
+.venue_content{width: 550px; float: left; clear: both; padding: 10px; }	
+.venue_meta{
+	background: white; 
+	width: 300px; 
+	float: right; 
+	color: #333;
+	padding: 0 10px 10px 10px;
+	margin: 20px 0 20px 0  ;
+	}		
+.venue_meta p{margin-bottom: 5px;}
+.venue_meta h2{font-size: 1.3em; margin-top: 10px;} 
+.single_content{margin-top: 40px;}
+.single_content h2{
+	background:  #ccc;
+	color: #fff;
+	padding: 0 12px; 
+	margin: 0;
+	height: 30px;
+	clear:both;
+} 
+
+.venue_meta h3{
+	margin:16.5px 0 0 0 ; 
+	background: white; 
+	clear: both; 
+	color: #333; 
+	border: none; 
+	-webkit-box-shadow: none; 
+	-moz-box-shadow: none;
+	}
+
+
+/*
+-----------------------------------------
+CALENDAR
+----------------------------------------- 
+*/
+
+#welcome{
+	width: 670px; 
+	margin: 15px 10px 15px 0px; 
+	background: white; 
+	float: left;
+	border-bottom: 1px solid #ccc;
+    -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	}
+ #welcome h2{ 
+border-bottom: solid #eef9b6 3px;
+	/*background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/welcome.png') no-repeat bottom right;*/
+	}  
+
+#welcome-text{float: left; margin: 10px 15px;}	
+#key{
+	background: white; 
+	width: 300px; 
+	float: left; 
+	margin: 15px 0px 0 0;
+	border: 1px solid #ccc;
+        -webkit-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	-moz-box-shadow: rgba(0,0,0,0.2) 0px 1px 1px;
+	}		
+#key h3{
+	background: #333;
+	color: #ffffec;
+	padding: 2px 0 3px 12px;
+	margin: 0;
+	font-size: 17px;
+}
+#key ul{margin-top: .5em;}		
+
+#calprop0{display:none;}   /*hides links to Google, iCal subscription */
+
+ul#compprop{width: 960px;}
+.no-show{display: none;} /* HACK! hides first empty li */
+.Day{clear: both;}
+
+.Day h3{
+	background:  #333;
+	color: #ffffec;
+	padding: 2px 0 3px 12px; 
+	font: 1.3em 'Muscateer', Tahoma, Arial;
+	margin: 2px 0px 0px 0px; 
+	text-transform: uppercase;
+	width: 970px;
+	/*height: 20px;*/
+	border-bottom: 1px solid #888;
+    -webkit-box-shadow: rgba(0,0,0,0.1) 0px 1px 1px;
+	-moz-box-shadow: rgba(0,0,0,0.1) 0px 1px 1px;
+} 
+.Day h3:hover, .Day h3:focus{cursor: pointer; color:#eef9b6 }
+
+body.arts-culture .Day h3:hover, .Day h3:focus{color: #ef7e00;}
+body.community .Day h3:hover, .Day h3:focus{color: #ef7057;}
+body.food-drink .Day h3:hover, .Day h3:focus{color: #ffc624;}
+body.sports-exercise .Day h3:hover, .Day h3:focus{color: #b2d500;}
+body.nightlife .Day h3:hover, .Day h3:focus{color: #00ada6;}
+
+.inside{
+	overflow: hidden; 
+	width: 960px; 
+	background: white;
+	margin: 0 10px;
+	}
+
+.vevent{
+	color: #cff; 
+	min-height: 90px;
+	width: 240px;
+ 	float: left;
+	}
+
+.cal0, .cal1, .cal2, .cal3, .cal4, .cal5{color: #333; font-size: 1em; line-height: 1.3em;}
+
+.cal0key{border-bottom: 3px solid #ef7e00; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal0-sprite.png') top right no-repeat; }
+.cal1key{border-bottom: 3px solid  #ef7057; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal1-sprite.png') top right no-repeat;}
+.cal2key{border-bottom: 3px solid  #ffc724; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal2-sprite.png') top right no-repeat;}
+.cal3key{border-bottom: 3px solid  #b2d500; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal3-sprite.png') top right no-repeat;}
+.cal4key{border-bottom: 3px solid  #00ada6; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal4-sprite.png') top right no-repeat;}
+.cal5key{border-bottom: 3px solid  #b2d500; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal5-sprite.png') top right no-repeat;}
+
+ul.amrcol{margin: 0px 10px 0px 15px;}
+ul.amrcol li{margin: 0px 3px 0 3px;}
+
+ 
+.cal0key, 
+.cal1key,
+.cal2key,
+.cal3key,
+.cal4key{
+	font: normal 1.2em 'Muscateer', Tahoma, Arial; 
+	color: black;
+	text-transform: uppercase; 
+	letter-spacing: -.5px;
+	margin: 2px 10px; 
+	padding: 0; 
+	text-align: left; 
+	color: #333; 
+	}
+.cal5key{
+	font: normal 1em 'Muscateer', Tahoma, Arial; 
+	color: black;
+	text-transform: uppercase; 
+	letter-spacing: -.5px; 
+	margin-left: 30px;
+	width: 260px;
+	}
+.cal5{display:none;}
+ul.amrcol li strong, 
+ul.amrcol li strong a{
+	font: normal 15px 'Muscateer', Tahoma, Arial; 
+	text-transform: uppercase; 
+	letter-spacing: -.5px; 
+	padding: 2px 25px 1px 1px;
+	margin-top: 5px;
+width: 190px;
+	}
+
+/*ONE-TIMERS*/
+.cal0.vevent li strong a{background: #ef7e00 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal0-sprite.png') bottom right no-repeat;border-bottom:3px solid  #ef7e00;}
+.cal1.vevent li strong a{background: #ef7057 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal1-sprite.png') bottom right no-repeat;border-bottom:3px solid #ef7057;}
+.cal2.vevent li strong a{background: #ffc724 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal-sprite.png') bottom right no-repeat; border-bottom:3px solid #ffc624;}
+.cal3.vevent li strong a{background: #b2d500 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal3-sprite.png') bottom right no-repeat; border-bottom:3px solid #b2d500;}
+.cal4.vevent li strong a{background: #00ada6 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal4-sprite.png') bottom right no-repeat; border-bottom:3px solid #00ada6;}
+
+/*RECURRING EVENTS*/
+.cal0.vevent.recur li strong a{border-bottom:3px solid  #ef7e00; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal0-sprite.png') top right no-repeat;}
+.cal1.vevent.recur li strong a{border-bottom:3px solid #ef7057; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal1-sprite.png') top right no-repeat;}
+.cal2.vevent.recur li strong a{border-bottom:3px solid #ffc724; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal2-sprite.png') top right no-repeat;}
+.cal3.vevent.recur li strong a{border-bottom:3px solid #b2d500; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal3-sprite.png') top right no-repeat;}
+.cal4.vevent.recur li strong a{border-bottom:3px solid #00ada6; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal4-sprite.png') top right no-repeat;}
+.cal5.vevent.recur li strong a{border-bottom:3px solid #b2d500; background: url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal5-sprite.png') top right no-repeat;}
+
+/*HOVER*/
+.cal0.vevent li strong a:hover{color: white; background: #ef7e00 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal0-sprite.png') bottom right no-repeat; border-top: 0;}
+.cal1.vevent li strong a:hover{color: white; background: #ef7057 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal1-sprite.png') bottom right no-repeat; border-top: 0;}
+.cal2.vevent li strong a:hover{color: white; background:#ffc724 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal2-sprite.png') bottom right no-repeat; border-top: 0;}
+.cal3.vevent li strong a:hover{color: white; background:#b2d500 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal3-sprite.png') bottom right no-repeat; border-top: 0;}
+.cal4.vevent li strong a:hover{color: white; background:#00ada6 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal4-sprite.png') bottom right no-repeat; border-top: 0;}
+.cal5.vevent.recur li strong a:hover{color: white; background: #b2d500 url('http://www.muscateer.com/wp-content/themes/muscateer/library/images/icons/cal5-sprite.png') bottom right no-repeat; border-top: 0;}
+
+
+
+
+
+ul.amrcol .summary{margin: 0;}
+
+.starttime, .endtime, ul.amrcol .location, .description, .url {display: inline; float: left;}
+.enddate{display: none;}
+/*.location, .description, .url{clear: both;}*/
+.clear{clear: both;}
+
+
+/*
+-----------------------------------------
+OTHER CALENDARS
+----------------------------------------- 
+*/
+
+body.arts-culture .cal0.vevent li strong a{border-bottom:3px solid  #ef7e00;}
+body.community .cal0.vevent li strong a{border-bottom:3px solid #ef7057;}
+body.food-drink .cal0.vevent li strong a{border-bottom:3px solid #ffc624;}
+body.sports-exercise .cal0.vevent li strong a,
+body.sports-exercise .cal1.vevent li strong a{border-bottom:3px solid #b2d500;}
+body.nightlife .cal0.vevent li strong a{border-bottom:3px solid #00ada6;}
+
+body.arts-culture .cal0.vevent li strong a:hover{background: #ef7e00; border-top: 0;}
+body.community .cal0.vevent li strong a:hover{background: #ef7057; border-top: 0;}
+body.food-drink .cal0.vevent li strong a:hover{background:#ffc624; border-top: 0;}
+body.sports-exercise .cal0.vevent li strong a:hover,
+body.sports-exercise .cal1.vevent li strong a:hover{background:#b2d500; border-top: 0;}
+body.nightlife .cal0.vevent li strong a:hover{background:#00ada6; border-top: 0;}
+
+
+/*
+-----------------------------------------
+MOVIE LISTING PAGE
+----------------------------------------- 
+*/
+
+body.movie-listings .page-template input{float: none;}
+body.movie-listings .submit{
+	font-family: 'Muscateer', Tahoma, Arial;
+	font-size: 15px;
+	text-transform: uppercase;
+	}
+body.movie-listings .submit:hover{
+	background: #333; cursor: pointer; color: white;
+		}
+#wpcf7-f3-p463-o1{margin-left: 20px}
+
+
+/*
+-----------------------------------------
+FOOTER
+----------------------------------------- 
+*/
+#footer-block{
+	margin: 50px 0 0px 0;
+	border-top: 5px solid #333;
+	background: white;
+	opacity: .9;
+	filter:alpha(opacity=90);
+	height: 290px;
+	z-index: 150;
+	}
+
+#footer {
+    margin:10px auto;
+    text-align: center;
+    width: 990px;
+    font-size: .9em;
+}
+
+.footer1, .footer2, .footer3{
+	width: 290px;
+	float: left;
+	text-align: left;
+	padding: 10px 20px;
+	}
+#footer .footer3{text-align: right;}
+#footer .footer3 ul{margin: -.2em 0 .8em 1em; font-style: italic;}
+#footer p{margin-bottom: 1em;}
+.footer2{border-right: 1px dashed #ccc; width: 289px;}
+
+/*
+-----------------------------------------
+PAGES FOOTER
+----------------------------------------- 
+*/
+
+#page-footer-block{
+	position: fixed;
+	bottom: 0;
+	background: #333;
+	color: #aaa;
+	height: 20px;
+	padding: 5px 0;
+	width: 100%;
+	z-index: 150;
+	}
+#page-footer{
+	width: 990px;
+	margin: 0 auto;
+	text-align: center;
+	}
+#page-footer #searchform{
+	width: 300px;
+	display: inline;
+	position: static;
+	float: right;
+	}
+#page-footer #searchform input{
+	background: #000; color: #aaa;}
+#page-footer #searchform input:hover{
+	background: #111;}
+#page-footer a{color: #aaa;}
+#page-footer a:hover{color: #ccc;}
+#page-footer small{float: left}
+
+/*
+-----------------------------------------
+ADD THIS
+----------------------------------------- 
+*/
+
+#key .addthis_toolbox{float: left; margin: 6px 12px;}
+.addthis_toolbox h5 a{border:0}
+.addthis_toolbox h5 a:hover{border:0}
+
+
+
+
+
+/*
+-----------------------------------------
+SEARCH
+----------------------------------------- 
+*/
+.container h2{width: 400px; display: block; float: left;}
+
+#searchform{
+	position: absolute;
+	top: 15px;
+	right: 10px;
+	}
+
+.title-search{position: relative; margin: 10px 0 ; padding: 0; clear: both;}
+.title-search h1{float: left; margin: -5px; padding-bottom: 5px}
+.title-search small{padding-left: 10px;}
+.title-search #searchform{top: 0;}
+
+.search-result{background: white; padding: 10px;}
+
+/*
+-----------------------------------------
+FORM & FOOTER SEARCH
+----------------------------------------- 
+*/
+
+.wpcf7 h5{margin:0; padding: 0; clear: both; float: left;}
+
+.wpcf7 input, 
+.wpcf7 textarea, 
+#footer-searchform input,
+#searchform input{
+	background: #ededed; 
+	border: none; 
+	font-family: Garamond, Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif; 
+	font-size: 12px;
+	padding: 2px;
+	}
+.wpcf7 input, 
+.wpcf7 textarea{
+	clear: both;
+	float: right;
+	}
+.wpcf7-form input:focus, 
+.wpcf7-form textarea:focus, 
+#footer-searchform input:focus
+	{background: #ddd;}
+
+.wpcf7-form .button, 
+#footer-searchform #search-submit,
+.search-submit,
+#searchform .submit{
+	font-family: 'Muscateer', Arial;
+	font-size: 10px;
+	text-transform: uppercase;
+	}
+.wpcf7-form .button:hover, 
+#footer-searchform #search-submit:hover,
+.search-submit:hover,
+#searchform .submit:hover{
+	background: #333; cursor: pointer; color: white;
+		}
+.wpcf7-acceptance{background:transparent;}
+/*
+-----------------------------------------
+FEEDBACK FORM
+----------------------------------------- 
+*/
+
+#sg_wrapper{text-align: left; width: 850px;margin:0 auto;}
+.sg_QuestionSet{font-size: 1.1em}
+.sg_QuestionTitle{font-size: 1.2em}
+.sg_Question{margin-bottom: 15px;}
+
+#Q_2_O4Other,
+#Q_15,
+#Q_10_O5{
+	background: #ededed; 
+	border: none; 
+	font-family: Garamond, Palatino, "Palatino Linotype", Georgia, Times, "Times New Roman", serif; 
+	font-size: 12px;
+	padding: 2px;
+	}
+.sg_QuestionSet input:focus,
+.sg_QuestionSet textarea:focus{background:#eee;}
+.sg_QuestionSet input{margin-left: 15px}
+#sg_SubmitButton{
+	background: #ededed; 
+	border: none;
+	float:right; 	
+	font-family: 'Muscateer', Arial;
+	text-transform: uppercase;
+}
+#sg_SubmitButton:hover{
+	background: #333; cursor: pointer; color: white;
+		}
+
+/*
+-----------------------------------------
+Other PAGES
+----------------------------------------- 
+*/
+
+.page-template{
+    clear:both;
+    width: 960px;
+    margin: 0 auto;
+    position: relative;
+    padding: 10px 15px 20px 15px;
+    background: white; 
+    text-align: center; 
+    position: relative;}
+
+#container-small .page-template{width:770px}
+.page_headline{padding-bottom: 30px;}
+.right-content{float: left; margin-left: 60px; width: 320px; text-align: left;}
+.right-content textarea, .right-content input{float: none;}
+.left-content{float: left; width: 320px; text-align: right;}
+.left-content input{float: right;}
+
+.left-big{width: 600px; float: left; text-align: left;}
+.right-small{width: 300px; float: right; text-align: left; padding: 3px 0 0 10px; border-left: #ccc dashed 1px;}
+
+.left-half{width: 400px; float: left; text-align: left; padding: 3px 0 0 10px;}
+.right-half{width: 400px; float: right; text-align: left; padding: 3px 0 0 10px; border-left: #ccc dashed 1px;}
+
+.content-3-left{width: 300px; float: left; text-align: left; padding: 0 10px 0 0;}
+.content-3-middle{width: 300px; float: left; text-align: left; padding: 0 10px 0 10px; border-left: #ccc dashed 1px;}
+.content-3-right{width: 300px; float: left; text-align: left;padding: 0 0px 0 10px;}
+
+.wpcf7-checkbox{padding: 0 0 0 20px;}
+.wpcf7-list-item input{float: none; display: inline;}
+#wpcf7-f2-p81-o1 input{}
+#wpcf7-f2-p81-o1 p{min-height:20px; font-size:12px;}
+#wpcf7-f2-p81-o1 .content-3-middle{padding-right: 30px; width: 270px}
+body.contact input,
+body.contact textarea,
+body.contact .submit{float:left;}
+/*
+-----------------------------------------
+LINK DECORATION
+----------------------------------------- 
+*/
+
+.title-search a,
+.description a,
+.footer1 a,
+.venue_info a, 
+small a,
+.single_content a,
+.page-template a,
+#welcome a{
+    border-bottom: 1px dashed #ccc; border-top: 1px dashed #ccc;}
+
+.title-search a:hover,
+.description a:hover,
+.footer1 a:hover,
+.venue_info a:hover, 
+small a:hover,
+.single_content a:hover,
+.page-template a:hover,
+#welcome a:hover{
+    border-bottom: 1px dashed #333; border-top: 1px dashed #333;}
+
